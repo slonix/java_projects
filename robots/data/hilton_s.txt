@@ -1,0 +1,441 @@
+Aberdeen, United Kingdom
+Abu Dhabi, U.A.E
+Abuja, Nigeria
+Adana, Turkey
+Addis Ababa, Ethiopia
+Adelaide, Australia
+Akron, USA
+Al Ain, U.A.E
+Albany, USA
+Alcoa, USA
+Alexandria, Egypt
+Alexandria, USA
+Alger, Algeria
+Altamonte Springs, USA
+Amsterdam, Netherlands
+Anaheim, USA
+Anchorage, USA
+Ankara, Turkey
+Antwerpen, Belgium
+Arlington, USA
+Arundel, United Kingdom
+Asheville, USA
+Athens, Greece
+Atlanta, USA
+Auburn Hills, USA
+Auckland, New Zealand
+Austin, USA
+Aviemore, United Kingdom
+Baku, Azerbaijan
+Ballater, United Kingdom
+Baltimore, USA
+Bandung, Indonesia
+Bangalore, India
+Bangkok, Thailand
+Barcelona, Spain
+Basel, Switzerland
+Basingstoke, United Kingdom
+Bath, United Kingdom
+Baton Rouge, USA
+Beachwood, USA
+Beijing, China
+Beirut, Lebanon
+Belem, Brazil
+Belfast, United Kingdom
+Bellevue, USA
+Bellshill, United Kingdom
+Berlin, Germany
+Beverly Hills, USA
+Birmingham, United Kingdom
+Birmingham, USA
+Blackpool, United Kingdom
+Bloomingdale, USA
+Bloomington, USA
+Boca Raton, USA
+Bodrum, Turkey
+Bogota, Colombia
+Bonn, Germany
+Bora Bora, French Polynesia
+Boston, USA
+Bracknell, United Kingdom
+Bradford, United Kingdom
+Branson, USA
+Breckenridge, USA
+Bremen, Germany
+Brentwood, USA
+Bridgetown, Barbados
+Brighton, United Kingdom
+Brisbane, Australia
+Bristol, United Kingdom
+Bromsgrove, United Kingdom
+Brussels, Belgium
+Bucharest, Romania
+Budapest, Hungary
+Buenos Aires, Argentina
+Burlingame, USA
+Burlington, USA
+Burnaby, Canada
+Bursa, Turkey
+Burton Upon Trent, United Kingdom
+Cairns, Australia
+Cairo, Egypt
+Cape Town, South Africa
+Cardiff, United Kingdom
+Carlsbad, USA
+Carolina, Puerto Rico
+Cartagena, Colombia
+Chandler, USA
+Charlotte, USA
+Chennai, India
+Chicago, USA
+Chongqing, China
+Cincinnati, USA
+Clearwater, USA
+Cobham, United Kingdom
+Cocoa Beach, USA
+College Station, USA
+Colnbrook, United Kingdom
+Cologne, Germany
+Colombo, Sri Lanka
+Colorado Springs, USA
+Columbia, USA
+Columbus, USA
+Concord, USA
+Copenhagen, Denmark
+Costa Mesa, USA
+Coventry, United Kingdom
+Croydon, United Kingdom
+Dahab, Egypt
+Dalian, China
+Dallas, USA
+Dartford, United Kingdom
+Daytona Beach, USA
+Dedham, USA
+Deerfield Beach, USA
+Del Mar, USA
+Derby, United Kingdom
+Destin, USA
+Doha, Qatar
+Dortmund, Germany
+Dresden, Germany
+Dubai, U.A.E
+Dublin, Ireland
+Dubrovnik, Croatia
+Dundee, United Kingdom
+Dunkeld, United Kingdom
+Durban, South Africa
+Durham, USA
+Dusseldorf, Germany
+East Brunswick, USA
+Edinburgh, United Kingdom
+Eilat, Israel
+Elizabeth, USA
+Eugene, USA
+Evanston, USA
+Evian Les Bains, France
+Flic-en-Flac, Mauritius
+Florence, Italy
+Florence, USA
+Fort Collins, USA
+Fort Lauderdale, USA
+Fort Wayne, USA
+Fort Worth, USA
+Frankfurt am Main, Germany
+Fujairah, U.A.E
+Fukuoka-shi, Japan
+Gainesville, USA
+Gaithersburg, USA
+Galveston, USA
+Gatineau, Canada
+Gatwick, United Kingdom
+Gdansk, Poland
+Giardini Naxos, Italy
+Glasgow, United Kingdom
+Glendale, USA
+Gold Coast, Australia
+Grand Rapids, USA
+Grapevine, USA
+Greenville, USA
+Guadalajara, Mexico
+Guanacaste, Costa Rica
+Guangzhou, China
+Guayaquil, Ecuador
+Gyeongju, South Korea
+Hanoi, Vietnam
+Harrisburg, USA
+Hartford, USA
+Hasbrouck Heights, USA
+Hefei, China
+Helsinki, Finland
+Herndon, USA
+Honolulu, USA
+Hounslow, United Kingdom
+Houston, USA
+Hua Hin, Thailand
+Huntington Beach, USA
+Hurghada, Egypt
+Indianapolis, USA
+Innsbruck, Austria
+Irvine, USA
+Iselin, USA
+Istanbul, Turkey
+Izmir, Turkey
+Jackson, USA
+Jamaica, USA
+Jeddah, Saudi Arabia
+Kansas City, USA
+Kayseri, Turkey
+Kenner, USA
+Key Largo, USA
+Kiev, Ukraine
+Knoxville, USA
+Kuala Lumpur, Malaysia
+Kuching, Malaysia
+Kuwait City, Kuwait
+La Jolla, USA
+Lafayette, USA
+Lake Buena Vista, USA
+Las Vegas, USA
+Laval, Canada
+Leeds, United Kingdom
+Leicester, United Kingdom
+Lexington, USA
+Linthicum Heights, USA
+Lisle, USA
+Little Rock, USA
+Liverpool, United Kingdom
+Llucmajor, Spain
+London, Canada
+London, United Kingdom
+Long Beach, USA
+Longboat Key, USA
+Los Angeles, USA
+Los Cabos, Mexico
+Louisville, USA
+Lubok Antu, Malaysia
+Luxor, Egypt
+Lyon, France
+Madinah, Saudi Arabia
+Madison, USA
+Madrid, Spain
+Mahe, Seychelles
+Mahe, Seychelles
+Maidstone, United Kingdom
+Mainz, Germany
+Makkah, Saudi Arabia
+Malabo, Equatorial Guinea
+Malmo, Sweden
+Managua, Nicaragua
+Manchester, United Kingdom
+Marco Island, USA
+Marietta, USA
+Markham, Canada
+Marsa Alam, Egypt
+McLean, USA
+Melbourne, Australia
+Melbourne, USA
+Melville, USA
+Memphis, USA
+Mesa, USA
+Mexico City, Mexico
+Miami Beach, USA
+Miami, USA
+Midland, USA
+Milan, Italy
+Milton Keynes, United Kingdom
+Milwaukee, USA
+Minneapolis, USA
+Mississauga, Canada
+Montego Bay, Jamaica
+Montreal, Canada
+Moscow, Russian Federation
+Mugla, Turkey
+Mumbai, India
+Munich, Germany
+Myrtle Beach, USA
+Mystic, USA
+Nadi, Fiji
+Nagoya, Japan
+Nairobi, Kenya
+Namhae-gun, South Korea
+Nanjing, China
+Naples, USA
+Narita, Japan
+Nashville, USA
+Nassau, Bahamas
+New Bern, USA
+New Delhi, India
+New Orleans, USA
+New York, USA
+Newark, USA
+Newbury, United Kingdom
+Newcastle upon Tyne, United Kingdom
+Newport, United Kingdom
+Niagara Falls, Canada
+Nicosia, Cyprus
+Niseko-cho, Japan
+Noonu Atoll, Maldives
+Norcross, USA
+Norfolk, USA
+Northampton, United Kingdom
+Northbrook, USA
+Nottingham, United Kingdom
+Nuremberg, Germany
+Nuweiba, Egypt
+Oak Lawn, USA
+Oakbrook Terrace, USA
+Oakland, USA
+Ocala, USA
+Ocean City, USA
+Odawara City, Japan
+Oklahoma City, USA
+Omaha, USA
+Ontario, USA
+Opfikon-Glattbrugg, Switzerland
+Orange, USA
+Orlando, USA
+Osaka, Japan
+Palermo, Italy
+Palm Springs, USA
+Panama City, Panama
+PAPETOAI, French Polynesia
+Paris, France
+Parsippany, USA
+Pasadena, USA
+Pattaya Chonburi, Thailand
+Pearl River, USA
+Pensacola Beach, USA
+Perth, Australia
+Petaling Jaya, Malaysia
+Philadelphia, USA
+Phoenix, USA
+Phuket, Thailand
+Pikesville, USA
+Pleasanton, USA
+Ponce, Puerto Rico
+Port of Spain, Trinidad/Tobago
+Portland, USA
+Portsmouth, United Kingdom
+Prague, Czech Republic
+Providence, USA
+Puerto Vallarta, Mexico
+Qiandao Lake, China
+Quebec, Canada
+Queenstown, New Zealand
+Quito, Ecuador
+Raleigh, USA
+Ras Al Khaimah, U.A.E
+Reading, United Kingdom
+Reykjavik, Iceland
+Richmond, Canada
+Richmond, USA
+Rockville, USA
+Rockwall, USA
+Roissy, France
+Rome, Italy
+Rosemont, USA
+Rotterdam, Netherlands
+Rye Brook, USA
+Sacramento, USA
+Saint Augustine, USA
+Saint John, Canada
+Saint Louis, USA
+Saint Petersburg, USA
+Salalah, Oman
+Salt Lake City, USA
+San Antonio, USA
+San Bernardino, USA
+San Diego, USA
+San Francisco, USA
+San Gabriel, USA
+San Jose, USA
+San Juan, Puerto Rico
+San Pedro Sula, Honduras
+San Salvador, El Salvador
+Sandton, South Africa
+Santa Clara, USA
+Santa Cruz, USA
+Santa Fe, USA
+Santa Rosa, USA
+Santo Domingo, Dominican Republic
+Sanya, China
+Sao Paulo, Brazil
+Saratoga Springs, USA
+Savannah, USA
+Schiphol, Netherlands
+Scottsdale, USA
+Scranton, USA
+Seattle, USA
+Sedona, USA
+Seoul, South Korea
+Shanghai, China
+Sharjah, U.A.E
+Sharm El Sheikh, Egypt
+Sheffield, United Kingdom
+Shenzhen, China
+Shinjuku-Ku, Japan
+Short Hills, USA
+Shreveport, USA
+Sibiu, Romania
+Singapore, Singapore
+Singer Island, USA
+Soestduinen, Netherlands
+Sofia, Bulgaria
+Sorrento, Italy
+Southampton, United Kingdom
+Southlake, USA
+Springfield, USA
+St. Julians, Malta
+Stamford, USA
+Stansted, United Kingdom
+Stockholm, Sweden
+Stockton, USA
+Strasbourg, France
+Surfers Paradise, Australia
+Sweimeh, Jordan
+Swindon, United Kingdom
+Sydney, Australia
+Taba, Egypt
+Taiyuan, China
+Tampa, USA
+Taupo, New Zealand
+Tel-Aviv, Israel
+Templepatrick, United Kingdom
+Tewkesbury, United Kingdom
+The Hague, Netherlands
+Toledo, Spain
+Toledo, USA
+Toronto, Canada
+Tucson, USA
+Tulsa, USA
+Tumon Bay, Guam
+Universal City, USA
+Urayasu-shi, Japan
+Vancouver, USA
+Vantaa, Finland
+Venice, Italy
+Vienna, Austria
+Vilamoura, Portugal
+Villahermosa, Mexico
+Virginia Beach, USA
+Waco, USA
+Waikoloa, USA
+Warsaw, Poland
+Warwick, United Kingdom
+Washington, USA
+Watford, United Kingdom
+Wembley, United Kingdom
+West Palm Beach, USA
+Whistler, Canada
+Willemstad, Curacao
+Wilmington, USA
+Windhoek, Namibia
+Windsor, Canada
+Winnipeg, Canada
+Woburn, USA
+Wokingham, United Kingdom
+Woodcliff Lake, USA
+Woodland Hills, USA
+Xi'an, China
+Yaounde, Cameroon
+York, United Kingdom

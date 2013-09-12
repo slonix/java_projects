@@ -1,0 +1,82 @@
+Abaco, Bahamas
+Abu Dhabi, United Arab Emirates
+Amelia Island, USA
+Arlington, USA
+Atlanta, USA
+Avon, USA
+Bahrain, Bahrain
+Bangalore, India
+Barcelona, Spain
+Beijing, China
+Berlin, Germany
+Boston, USA
+Cairo, Egypt
+Cancun, Mexico
+Carolina, Puerto Rico
+Charlotte, USA
+Cleveland, USA
+Coconut Grove, USA
+Dallas, USA
+Dana Point, USA
+Denver, USA
+Doha, Qatar
+Dorado, Puerto Rico
+Dubai, United Arab Emirates
+Enniskerry, Ireland
+Fort Lauderdale, USA
+Grand Cayman, Cayman Islands
+Greensboro, USA
+Guangzhou, China
+Guia de Isora, Canary Islands
+Half Moon Bay, USA
+Herzliya, Israel
+Hong Kong, Hong Kong
+Istanbul, Turkey
+Jakarta, Indonesia
+Kapalua, USA
+Key Biscayne, USA
+Krabi, Thailand
+Kuala Lumpur, Malaysia
+London, United Kingdom
+Los Angeles, USA
+Madrid, Spain
+Manalapan, USA
+Marana, USA
+Marina del Rey, USA
+McLean, USA
+Miami Beach, USA
+Milan, Italy
+Montreal, Canada
+Moscow, Russia
+Muscat, Oman
+Naples, USA
+New Orleans, USA
+New York, USA
+Orlando, USA
+Osaka, Japan
+Philadelphia, USA
+Phoenix, USA
+Riyadh, Saudi Arabia
+Rose Hall, Jamaica
+San Francisco, USA
+Santiago, Chile
+Sanya, China
+Sarasota, USA
+Seoul, Korea
+Shanghai, China
+Sharm El Sheikh, Egypt
+Shenzhen, China
+Singapore, Singapore
+Sintra, Portugal
+St. James, Jamaica
+St. Louis, USA
+St. Thomas, Virgin Islands
+Tianjin, China
+Tokyo, Japan
+Toronto, Canada
+Truckee, USA
+Vail, USA
+Vienna, Austria
+Washington, USA
+White Plains, USA
+Wolfsburg, Germany
