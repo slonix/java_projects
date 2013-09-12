@@ -1,0 +1,556 @@
+;-bać;I B;*-ba;dbać, (się) gibać, bimbać, (się) podobać (20)/
+;-bać;VIa i;-bacić;przekabać, garbać/
+;-bać;IX B;*-bie;rąbać, grzebać, skrobać, skubać (85)/
+;bać;XII B;*boi;(się) bać (3)/
+;-cać;I B;*-ca;obiecać, rzucać, macać, wracać (280)/
+;zdać;XII B;*zda;/
+;-zdać;I B;*-zda;uzdać (4)/
+;-zdać;IX B;*-żdże;gwazdać!, gwizdać (10)/
+;-dać;;;widać(o)/
+;-dać;I B;*-da;siadać, żądać, merdać, drzyzdać? (250)/
+;dać;XII B;*da;sprzedać, rozdać (20)/
+;-fać;I B;*-fa;cofać, dufać, ufać (9)/
+;-zgać;IX B;*-żdże;bryzgać?/
+;gać;żV NT;;/
+;gać;VIa i;gacić;koligać, wzbogać (6)/
+;-gać;;;bogać/
+;-gać;I B;*-ga;błagać, sięgać, czołgać, strugać (320)/
+;-gać;IX B;*-że;łgać, strugać! (9)/
+;jechać;XII B;*jedzie;dojechać (16)/
+;-chać;;;słychać(o)/
+;-chać;VIa i;-chacić;mechać (2)/
+;-chać;I B;*-cha;wąchać, kochać, dmuchać, zdychać (220)/
+;-chać;IX B;*-sze;brechać, brzechać (3)/
+;hać;żV NT;;hać!/
+;-hać;I B;*-ha;wahać, czyhać (5 + 220)/
+;-biać;I B;*-bia;ozdabiać, zarabiać, uwielbiać, zarybiać (125)/
+;-ciać;I B;*-cia;ciapciać?, papciać?, ciupciać?, waszmościać, pruciać? (7)/
+;-fiać;I B;*-fia;trafiać (6)/
+;śmiać;Xb B;*śmieje;wyśmiać (12)/
+;-miać;I B;*-mia;zawiadamiać, uziemiać, dokarmiać, ujarzmiać (50)/
+;-niać;I B;*-nia;rozganiać, osłaniać, utleniać, zwalniać, wyróżniać (480)/
+;-piać;I B;*-pia;skrapiać, zalepiać, ogłupiać, sypiać (130)/
+;piać;Xb B;*pieje;piać, dośpiać (7)/
+;-siać;I B;*-sia;zalesiać, zakompleksiać, siusiać, cysiać (12)/
+;siać;Xb B;*sieje;obsiać (16)/
+;-wiać;I B;*-wia;zabawiać, naprawiać, odżywiać, ubóstwiać (300)/
+;-wiać;Xb B;*-wieje;chwiać, wiać (17)/
+;-dziać;I B;*-dzia;dziamdziać/
+;dziać;Xb B;*dzieje;odziać, wdziać (20)/
+;-ziać;I B;*-zia;odżeleziać, rozgałęziać (5)/
+;ziać;Xb B;*zieje;/
+;-jać;I B;*-ja;zziajać, bajać, mijać, zawijać, bujać (200)/
+;-jać;IX B;*-je;(się) zziajać, łajać, krajać, tajać (35)/
+;-skać;I B;*-ska;mlaskać, parskać, trzaskać, błyskać (100)/
+;-skać;IX B;*-szcze;klaskać, mlaskać, głaskać, pleskać, pluskać (20?)/
+;-kać;VIa i;-kacić;delikać, pstrokać (6)/
+;-kać;I B;*-ka;bąkać, czekać, brzękać, łkać, szukać, łykać (520+100)/
+;-kać;IX B;*-cze;skakać, płakać, krakać, kwokać, płukać (45)/
+;-lać;I B;*-la;kalać, chlać, hulać, kaszlać! (420)/
+;-lać;IX B;*-le;paplać, kaszlać!, mamlać, skamlać (20)/
+;lać;Xb B;*leje;chlać, lać (11)/
+;-esłać;IX B;*ściele;obesłać, wesłać, rozesłać (7)/
+;słać;IX B;*ściele;zasłać (10)/
+;słać;IX B;*śle;posłać (15)/
+;łać;VIa i;łacić;kudłać, płać (18)/
+;-łać;żV NT;;połać/
+;-łać;I B;*-ła;działać, wołać, memłać, kasłać, posyłać (100)/
+;-łać;IX B;*-le;skamłać!, mamłać (4)/
+;mać;żV NT;;mać!/
+;-mać;;;psiamać(w)/
+;-mać;VIa i;-macić;skosmać, zeszmać (3)/
+;-mać;I B;*-ma;mniemać, imać, dumać, trzymać (70)/
+;-mać;IX B;*-mie;kłamać, łamać, drzemać, pojmać (40)/
+;nać;żV NT;;/
+;-nać;;;snać, znać(o)/
+;-nać;I B;*-na;gnać, ucinać, konać, równać, dożynać, znać (200)/
+;spać;XII B;*śpi;zaspać (10)/
+;-pać;VIa i;-pacić;konopać/
+;-pać;I B;*-pa;siąpać, stąpać, ćpać, tyrpać (15)/
+;-pać;IX B;*-pie;łapać, trzepać, kopać, szarpać, tupać (230)/
+;(wezbrać;IX B;*wzbierze;/
+;-ebrać;IX B;*-bierze;nadebrać, podebrać, odebrać, webrać, rozebrać, zebrać/
+;brać;żV NT;;współbrać/
+;brać;VIa i;bracić; pobrać (4)/
+;brać;IX B;*bierze;przebrać, obrać (15)/
+;-brać;IX B;*-brze;żebrać (4)/
+;(zeprać;IX B;*spierze;/
+;-eprać;IX B;*-pierze;podeprać/
+;prać;IX B;*pierze;sprać(v: zeprać), uprać (12)/
+;rać;żV NT;;rać!/
+;-rać;VIa i;-racić;zagrać, trać (13 + 4)/
+;-rać;I B;*-ra;(się) parać, nabierać, grać, szurać, tyrać (230)/
+;-rać;IX B;*-rze;karać, babrać, szemrać, orać, paprać (40)/
+;ciosać;IX B;*ciosze;ciosać!/
+;ssać;IX B;*ssie;wyssać (18)/
+;-sać;I B;*-sa;pasać, kąsać, (się) wałęsać, ciosać, wysysać (100)/
+;-sać;IX B;*-sze;opasać, czesać, pisać, kołysać (60)/
+;(stać;;;stać(o)/
+;-stać;żV NT;;postać, pustać/
+;-stać;I B;*-sta;chlastać, narastać, rozchełstać, korzystać (70)/
+;-stać;VIa i;-stacić;upostać/
+;-stać;IX B;*-szcze;chlastać, świstać, chłostać, chlustać (25)/
+;stać;XII B;*stoi;postać (10?)/
+;stać;XII B;*stanie;zastać, zaprzestać, zostać, powstać (25?)/
+;tać;;;tać!/
+;-tać;I B;*-ta;latać, sprzątać, pamiętać, witać, miotać, czytać (150+70)/
+;-tać;IX B;*-ce;świergotać, chichotać, trzepotać, dreptać (180?)/
+;-tać;IX B;*-cze;kołatać, plątać, łechtać, łopotać, szeptać (200)/
+;-awać;I B;*-awa;napawać, spawać, naigrawać, skrawać (28)/
+;-awać;IX B;*-aje;dawać, sprzedawać, poznawać, stawać (85)/
+;-ewać;I B;*-ewa;miewać, gniewać, ziewać, nalewać, dojrzewać (170)/
+;-chwać;VIa i;-chwacić;ochwać (2)/
+;-iwać;I B;*-iwa;kiwać, przegniwać, okpiwać, omieszkiwać, wydrwiwać (30)/
+;-iwać;VIIIb B;*-uje;usługiwać, podrygiwać, rozmachiwać, przesłuchiwać, podskakiwać, oczekiwać, pomrukiwać, pokaszliwać? (350)/
+;-iwać;VIIIb B;*-iwuje;rozstrzeliwać, omgliwać, poboliwać, przemyśliwać (17)/
+;-lwać;I B;*-lwa;plwać (3)/
+;-ować;I B;*-owa;chować, kować, knować, snować (25)/
+;-ować;IV B;*-uje;pracować, szachować, cechować, mianować (6350)/
+;ować;VIa i;owacić;ować?, lodować, skarłować, spowinować (5)/
+;trwać;I B;*trwa;wytrwać (6)/
+;rwać;IX B;*rwie;zerwać (15)/
+;swać;żI lG;swacia;swać?/
+;-twać;I B;*-twa;gmatwać (8)/
+;-uwać;I B;*-uwa;spluwać, fruwać, suwać, czuwać (120)/
+;-ywać;I B;*-ywa;bywać,  zdziaływać, pływać, obmywać, wykonywać, zrywać, nazywać, odpoczywać, zaszywać, spożywać (200?)/
+;-ywać;VIIIa B;*-uje;odpisywać, zasypywać, wypatrywać, rozwiązywać, nagabywać, oddziaływać, wykonywać, zarachowywać (1200?)/
+;szczwać;I B;*szczwa;uszczwać (4)/
+;zwać;IX B;*zwie;nazwać (15)/
+;wać;żV(m) N;;wać!/
+;-szczać;I B;*-szcza;ugaszczać, umieszczać, uiszczać, puszczać, oczyszczać (120)/
+;szczać;XII B;*szczy;/
+;-czać;I B;*-cza;otaczać, doświadczać, zliczać, pouczać, użyczać (290+120)/
+;-dzać;I B;*-dza;chadzać, zwiedzać, popędzać, wyszydzać (300)/
+;grzać;Xb B;*grzeje;zagrzać (17)/
+;-rzać;I B;*-rza;zamarzać, tarzać, opierzać, nurzać (200)/
+;-szać;I B;*-sza;wygłaszać, zwieszać, zmniejszać, wduszać, ruszać (225)/
+;-zać;I B;*-za;rzezać, kiełzać, pełzać, ogryzać (50 + 1135)/
+;-zać;IX B;*-że;kazać, mazać, wiązać, lizać, nizać (60)/
+;-żać;I B;*-ża;narażać, zwyciężać, wjeżdżać, okrążać (225)/
+;(wzdąć;Xc B;*wezdmie;/
+;Cdąć;Xc B;*Cedmie;poddąć, zdąć, rozdąć/
+;Vdąć;Xc B;*Vdmie;wydąć (7)/
+;(ściąć;Xc B;*zetnie;/
+;Cciąć;Xc B;*Cetnie;obciąć, odciąć, podciąć, rozciąć, wciąć (6)/
+;Vciąć;Xc B;*Vtnie;uciąć (10)/
+;Cgiąć;Xc B;*Cegnie;obgiąć, odgiąć, podgiąć, wgiąć, zgiąć (7)/
+;Vgiąć;Xc B;*Vgnie;zagiąć (8)/
+;Cmiąć;Xc B;*Cemnie;zmiąć/
+;Vmiąć;Xc B;*Vmnie;pomiąć (3)/
+;(wspiąć;Xc B;*wespnie;/
+;spiąć;Xc B;*zepnie;/
+;Cpiąć;Xc B;*Cepnie;odpiąć, podpiąć, rozpiąć/
+;Vpiąć;Xc B;*Vpnie;napiąć (8)/
+;wziąć;XII B;*weźmie;(się) zawziąć, przedsięwziąć/
+;(jąć;Xc B;*---;/
+;Cjąć;Xc B;*Cejmie;objąć, odjąć, podjąć, zdjąć, rozdjąć!, zjąć! (7)/
+;Vjąć;Xc B;*Vjmie;wynająć, zająć, pojąć, przyjąć (16)/
+;skląć;Xc B;*zeklnie;/
+;Ckląć;Xc B;*Ceklnie;odkląć!, rozkląć! (3)/
+;Vkląć;Xc B;*Vklnie;przekląć (5)/
+;mąć;VIa i;mącić;zamąć (5)/
+;-anąć;Vb B;*-anie;ukanąć, stanąć, przystanąć/
+;-bnąć;Va B;*-bnie;nagabnąć, dziabnąć, rąbnąć, skubnąć (20)/
+;-bnąć;Vc B;*-bnie;słabnąć, ziębnąć (13)/
+;-cnąć;Va B;*-cnie;pacnąć, kicnąć, kucnąć, chycnąć (10)/
+;-dnąć;Va B;*-dnie;zagadnąć, zaglądnąć, fundnąć, pierdnąć, gwizdnąć (14)/
+;-dnąć;Vc B;*-dnie;odgadnąć, padnąć?(v: paść), kradnąć?(v:kraść), rzednąć, więdnąć, ochłodnąć, chudnąć, brzydnąć (55)/
+;-enąć;Vb B;*-enie;żenąć (2)/
+;-fnąć;Va B;*-fnie;kojfnąć, cofnąć/
+;-gnąć;Va B;*-gnie;smagnąć, pragnąć, ciągnąć, sięgnąć, doścignąć, dźwignąć, lgnąć, drgnąć, mrugnąć, obślizgnąć (130)/
+;-gnąć;Vc B;*-gnie;biegnąć(v), legnąć(v), ustrzegnąć? (v: ustrzec), dosięgnąć(v), lęgnąć(v), przęgnąć(v), zawilgnąć, stygnąć (55)/
+;-chnąć;Va B;*-chnie;machnąć, trząchnąć, kichnąć, pchnąć, czmychnąć (75)/
+;-chnąć;Vc B;*-chnie;zdechnąć, zatęchnąć, ścichnąć, schnąć, puchnąć (50)/
+;-hnąć;Va B;*-hnie;wahnąć (2+75)/
+;-inąć;Vb B;*-inie;ginąć, skinąć, minąć, owinąć (40)/
+;-jnąć;Va B;*-jnie;bujnąć, kujnąć/
+;-knąć;Va B;*-knie;łaknąć, bąknąć, szczeknąć, szczęknąć, fiknąć, mknąć (210)/
+;-knąć;Vc B;*-knie;braknąć, siąknąć(v), cieknąć(v), rzeknąć(v),mięknąć, (się) ulęknąć(v), niknąć, milknąć, żółknąć, moknąć, wyknąć (95)/
+;-lnąć;Va B;*-lnie;golnąć, kolnąć, kulnąć, kaszlnąć (9)/
+;-mnąć;Va B;*-mnie;(się) zdrzemnąć, kimnąć, zapomnąć, rymnąć (11)/
+;-onąć;Vb B;*-onie;wionąć, zionąć, chłonąć, płonąć, tonąć (35)/
+;-pnąć;Va B;*-pnie;klapnąć, trzepnąć, zaczerpnąć, skrzypnąć (85)/
+;-pnąć;Vc B;*-pnie;oklapnąć, ślepnąć, ścierpnąć, chrypnąć (25)/
+;-rnąć;Va B;*-rnie;garnąć, brnąć, szurnąć, dyrnąć (28)/
+;-snąć;Va B;*-snie;kuksnąć, klapsnąć, kopsnąć, (się) wypsnąć (4?)/
+;-snąć;Va B;*-śnie;klasnąć, trząsnąć, cisnąć, olsnąć, chlusnąć, błysnąć (120)/
+;-snąć;Vc B;*-snie;klęsnąć/
+;-snąć;Vc B;*-śnie;gasnąć, kisnąć, zawisnąć, rosnąć (45)/
+;-śnąć;Va B;*-śnie;lśnąć/
+;-tnąć;Va B;*-tnie;płatnąć, zaprzątnąć, fajtnąć, zgrzytnąć (30)/
+;-tnąć;Vc B;*-tnie;kwitnąć (11)/
+;-unąć;Vb B;*-unie;lunąć, runąć, frunąć, sunąć (35)/
+;-wnąć;Va B;*-wnie;ziewnąć, kiwnąć/
+;-ynąć;Vb B;*-ynie;wychynąć, płynąć, słynąć (25)/
+;-łznąć;Vc B;*-łznie;ochełznąć, pełznąć (13)/
+;-łznąć;Vc B;*-łźnie;ochełznąć, okiełznąć, pełznąć (13)/
+;rznąć;Va B;*rznie;narznąć (17)/
+;rznąć;Vc B;*rznie;marznąć, mierznąć (23)/
+;-znąć;Va B;*-źnie;maznąć, (się) pośliznąć, bluznąć, bryznąć (20)/
+;-znąć;Vc B;*-źnie;wiąznąć, sczeznąć, grzęznąć(v), uwięznąć (17)/
+;rżnąć;Va B;*rżnie;zarżnąć (15)/
+;-rżnąć;Vc B;*-rżnie;obmierżnąć!/
+;pąć;żV NT;;pąć/
+;trąć;VIa i;trącić;strąć (14)/
+;rąć;żI lG;rącia;rąć?/
+;(wszcząć;Xc B;*---;/
+;Ccząć;Xc B;*Cecznie;rozcząć!/
+;Vcząć;Xc B;*Vcznie;zacząć, począć, napocząć, spocząć (10)/
+;Cżąć;Xc B;*Ceżmie;rozżąć/
+;Cżąć;Xc B;*Ceżnie;obżąć, odżąć, (się) wżąć, zżąć (4)/
+;Vżąć;Xc B;*Vżmie;wyżąć (5)/
+;Vżąć;Xc B;*Vżnie;wyżąć (5?)/
+;-bć;żI lG;-bcia;babć!, lubć?/
+;-beć;mI N;*-becie;berbeć/
+;beć;VIa i;becić;beć!/
+;-cheć;mI N;*-chcie;płacheć, łacheć, spłacheć, wiecheć/
+;-bieć;III B;*-bieje;babieć, grabieć, dębieć, grubieć, grzybieć (20)/
+;-bieć;VIa i;-biecić;skobieć!/
+;-bieć;VIIa B;*-bi;świerzbieć (2)/
+;-chcieć;III B;*-chcieje;szlachcieć/
+;chcieć;XII B;*chce;zachcieć (7)/
+;cieć;mI N;*ciecie;/
+;-cieć;III B;*-cieje;żółcieć, zidiocieć, sierocieć, niewieścieć (110)/
+;-cieć;VIIa B;*-ci;lecieć, chrzęścieć (18)/
+;-fieć;III B;*-fieje;torfieć (2)/
+;-gieć;mI N;*-gcie;dziegieć/
+;-kieć;mI N;*-kcie;łokieć, paznokieć, kłykieć, knykieć/
+;-kieć;VIa i;-kiecić;ubukieć!/
+;(mieć;XII B;*ma;mieć/
+;mieć;VIa i;miecić;mieć!, śmieć (4)/
+;mieć;XI i;mieść;zamieć (17)/
+;-mieć;mI N;*-miecie;kmieć, śmieć/
+;-mieć;żV NT;*-mieci;zamieć/
+;-mieć;II B;*-mie;umieć, rozumieć, śmieć (8)/
+;-mieć;III B;*-mieje;schamieć, oniemieć, zdumieć, olbrzymieć (18)/
+;-mieć;VIIa B;*-mi;brzmieć, grzmieć, szumieć (24)/
+;gnieć;XI i;gnieść;zgnieć (12)/
+;-chnieć;XII B;*-chnie;pachnieć!/
+;nieć;VIa i;niecić;roznieć (7)/
+;-nieć;żV NT;*-nieci;knieć, śnieć/
+;-nieć;III B;*-nieje;dnieć, linieć, topnieć, istnieć, mężnieć (450)/
+;-nieć;VIIa B;*-ni;dudnieć!, zapomnieć (13)/
+;-pieć;mI N;*-piecie;rupieć/
+;-pieć;III B;*-pieje;ropieć, tępieć, głupieć, osłupieć (40)/
+;-pieć;VIIa B;*-pi;kipieć, cierpieć, chrypieć, skrzypieć (30)/
+;sieć;żV NT;*sieci;osieć!/
+;-sieć;III B;*-sieje;łysieć, orosieć, psieć, podtatusieć (14)/
+;-sieć;VIa i;-siecić;rozsieć(i)/
+;-sieć;VIIa B;*-si;wisieć, musieć (3)/
+;-wieć;III B;*-wieje;jaskrawieć, rdzewieć, siwieć, zdrowieć, trzeźwieć (140)/
+;-wieć;VIa i;-wiecić;kwieć, świeć (17)/
+;-wieć;VIIa B;*-wi;tkwieć!/
+;wiedzieć;XII B;*wie;powiedzieć (16)/
+;-dzieć;III B;*-dzieje;czadzieć, śniedzieć, hardzieć, żydzieć (28)/
+;-dzieć;VIIa B;*-dzi;siedzieć, swędzieć, widzieć, śmierdzieć (30)/
+;-zieć;III B;*-zieje;francuzieć, kobuzieć, zapyzieć (4+28)/
+;aleć;;;aleć!/
+;-emleć;XI B;*-miele;rozemleć, zemleć/
+;mleć;XI B;*miele;namleć (4)/
+;-epleć;XI B;*-piele;obepleć/
+;pleć;XI B;*piele;wypleć (4)/
+;pleć;XI i;pleść;upleć (12)/
+;leć;VIIa i;lecieć;wzleć (17)/
+;-leć;żV NT;*-leci;kleć!, pleć!/
+;-leć;III B;*-leje;szaleć, mdleć, bieleć, ciepleć (90)/
+;-leć;VIa i;-lecić;zaleć, fleć, kleć (10)/
+;-leć;VIIa B;*-li;skomleć, boleć, woleć, myśleć (15)/
+;-leć;XII B;*-le;mamleć, kaszleć/
+;płeć;żV NT;*płci;/
+;-łeć;mI N;*-łcie;połeć, urwipołeć/
+;-peć;mI N;*-pcie;kapeć, łapeć, kopeć, pypeć (10)/
+;-peć;VIa i;-pecić;szpeć (5)/
+;-reć;III B;*-reje;wygoreć, źreć (3)/
+;-reć;XI B;*-re;źreć!, zeżreć (15)/
+;-teć;żV NT;;Noteć/
+;-czeć;żV NT;*-czeci;szczeć/
+;-czeć;III B;*-czeje;dziwaczeć, pierniczeć, dziczeć, niszczeć (65)/
+;-czeć;VIIb B;*-czy;beczeć, klęczeć, milczeć, krzyczeć (170)/
+;-wrzeć;XI B;*-wrze;przywrzeć(przywarł) (10?)/
+;wrzeć;XII B;*wrze;zawrzeć/
+;-rzeć;;;samotrzeć/
+;-rzeć;III B;*-rzeje;szarzeć, mądrzeć, dojrzeć, chorzeć, wietrzeć (70)/
+;-rzeć;VIIb B;*-rzy;żebrzeć!, dojrzeć, patrzeć, spojrzeć, wejźrzeć (30)/
+;-rzeć;XI B;*-rze;drzeć, mrzeć, przeć, trzeć, zrzeć! (60+10)/
+;-szeć;;;zawszeć/
+;-szeć;żV N;;waszeć(m)/
+;-szeć;III B;*-szeje;trupieszeć, pustoszeć, murszeć, kruszeć (25)/
+;-szeć;VIIb B;*-szy;dyszeć, słyszeć (17)/
+;-żeć;III B;*-żeje;tężeć, zelżeć, ubożeć, drożeć (30)/
+;-żeć;VIIb B;*-ży;bieżeć, leżeć, drżeć, rżeć (50)/
+;dęć;nI lG;dęcie;zadęć, wzdęć/
+;chęć;żV NT;;niechęć/
+;-chęć;VIa i;-chęcić;zachęć (6)/
+;cięć;nI lG;cięcie;zacięć, przecięć, ścięć (18)/
+;gięć;nI lG;gięcie;zagięć, przegięć (20)/
+;-mięć;żV NT;;pamięć/
+;mięć;nI lG;mięcie;wymięć/
+;-nięć;nI lG;-nięcie;pociągnięć, opuchnięć, zamknięć, zatonięć, posunięć (700)/
+;pięć;nI lG;pięcie;napięć, spięć (15)/
+;pięć;Ka 1;;/
+;-sięć;;;samodziesięć/
+;-sięć;Ka 1;;dziesięć/
+;-więć;Ka 1;;dziewięć/
+;-więć;VIa i;-więcić;święć (6)/
+;zięć;mI N;;/
+;-zięć;nI lG;-zięcie;wzięć, przedsięwzięć (10)/
+;jęć;nI lG;jęcie;zajęć, zdjęć, pojęć, ujęć (18)/
+;-lęć;nI lG;-lęcie;zaklęć, wyklęć/
+;-lęć;VIa i;-lęcić;bydlęć (2)/
+;męć;VIa i;męcić;zachachmęć, zasmęć (6)/
+;nęć;VIa i;nęcić;przynęć (10)/
+;-ręć;VIa i;-ręcić;kręć, uwstręć (17)/
+;-tęć;żV NT;;rtęć, ortęć/
+;-częć;nI lG;-częcie;zaczęć, poczęć, wszczęć/
+;-częć;żV NT;;pieczęć/
+;-rzęć;VIa i;-rzęcić;uzwierzęć (3)/
+;żęć;nI lG;żęcie;sianożęć, wyżęć, zżęć/
+;-żęć;żV NT;;sianożęć/
+;-żęć;VIa i;-żęcić;uksiążęć/
+;-fć;żI lG;-fcia;Stefć/
+;-chć;żI lG;-chcia;ciuchć/
+;-chć;VIa i;-chcić;uszlachć, pichć (4)/
+;-aić;VIa B;*-ai;zagaić, maić, raić, taić, czaić (40)/
+;-aić;VIa i;-aicić;urozmaić (3)/
+;bić;nI lG;bicie;obić, mordobić (25)/
+;bić;Xa B;*bije;wzbić (17)/
+;-bić;żV NT;;kibić/
+;-bić;VIa B;*-bi;osłabić, grabić, hańbić, robić, lubić (230)/
+;-ścić;;;juścić!/
+;-ścić;VIa B;*-ści;szeleścić, mścić, gościć, puścić (130)/
+;-cić;;;jużcić!/
+;-cić;VIa B;*-ci;płacić, mącić, klecić, nęcić, wrócić, cucić (450+130)/
+;-eić;VIa B;*-ei;kleić, oleić, wykoleić (20)/
+;-fić;VIa B;*-fi;trafić, trefić, kwefić, torfić (15)/
+;-fić;VIa i;-ficić;zobfić!/
+;kić;;;/
+;kić;mI N;;/
+;kić;żI lG;kicia;kić!/
+;kić;żV NT;;kić!/
+;-kić;VIa i;-kicić;rozbłękić, mikić!/
+;alić;;;/
+;lić;żV NT;;lić!/
+;-lić;VIa B;*-li;palić, (się) modlić, kreślić, tlić (625)/
+;-lić;VIa i;-licić;ujednolić, upospolić (3)/
+;-mić;VIa B;*-mi;plamić, ćmić, uziemić, zawiadomić, karmić (100)/
+;-mić;VIa i;-micić;aksamić/
+;gnić;nI lG;gnicie;/
+;gnić;Xa B;*gnije;wygnić (13)/
+;-gnić;VIa B;*-gni;zabagnić, (się) jagnić, zaognić/
+;nić;żV NT;;/
+;-nić;VIa B;*-ni;ganić, winić, cenić, tętnić, czynić (900)/
+;-oić;VIa B;*-oi;doić, goić, koić, gnoić, poić, stroić (125)/
+;-oić;VIa i;-oicić;uprzyzwoić!/
+;pić;nI lG;picie;przepić/
+;pić;Xa B;*pije;spić, rozpić (18)/
+;-pić;VIa B;*-pi;skąpić, lepić, kpić, wątpić, kupić (250)/
+;-sić;VIa B;*-si;gasić, zakąsić, biesić, nosić, dusić (250)/
+;-uić;VIa B;*-ui;zniechluić(i)/
+;wić;żV NT;;wić, zwić!/
+;wić;VIa B;*-wi;bawić, krzewić, oliwić, mówić, żywić (465)/
+;wić;Xa B;*wije;uwić (17)/
+;-wić;nI lG;-wicie;powić (10)/
+;-dzić;VIa B;*-dzi;radzić, cedzić, wędzić, chodzić, budzić, szydzić (535)/
+;-zić;VIa B;*-zi;łazić, razić, więzić, wozić, mierzić (115+535)/
+;-kć;VIa i;-kcić;żłukć!/
+;-łć;żV NT;;żółć/
+;-łć;VIa i;-łcić;kształć, gwałć, żółć (18)/
+;-mć;żI lG;-mcia;ciamć, mamć, kumć?/
+;-nć;żI lG;-ncia;stryjenć, żonć/
+;-nć;VIa i;-ncić;lamenć?, rozdiamenć?(i), ubrylanć?/
+;-ńć;żI lG;-ńcia;babuńć, paniuńć, mamuńć, pannuńć, kawuńć/
+;boć;;;boć, luboć/
+;-boć;VIa i;-bocić;(się) bezroboć/
+;-goć;żV NT;;wilgoć/
+;-goć;VIa i;-gocić;wilgoć (6)/
+;choć;;;/
+;-choć;VIa i;-chocić;rozochoć (4)/
+;-ioć;żI lG;-iocia;cioć/
+;-koć;żV NT;;płaskoć/
+;koć;VIa i;kocić;(się) markoć, (się) parkoć (7)/
+;-łoć;żV NT;;kłoć, płoć, włoć, złoć, zmarzłoć (8)/
+;-łoć;VIa i;-łocić;błoć, ogołoć, opłoć, złoć (22)/
+;-moć;VIa i;-mocić;grzmoć (3)/
+;-noć;;;podobnoć, ponoć/
+;-noć;VIa i;-nocić;uklejnoć, knoć (5)/
+;poć;VIa i;pocić;(się) poć (10)/
+;kroć;;;kilkakroć, wielekroć, częstokroć, trzykroć (27)/
+;-roć;żV NT;;dobroć, paproć, stokroć, troć, uwroć/
+;-roć;VIa i;-rocić;sieroć (3)/
+;-soć;VIa i;-socić;psoć (3)/
+;toć;;;nastoć/
+;-toć;żV NT;;łotoć/
+;-óć;VIa i;-ócić;kłóć, młóć, obróć, skróć, wróć (40)/
+;-pć;żI lG;-pcia;gapć?, łapć?, dupć/
+;-pć;VIa i;-pcić;drepć!, kopć (9)/
+;-rć;;;ćwierć/
+;-rć;mI N;;pokurć!/
+;-rć;nI lG;-rcie;starć, otwarć, rozdarć, zaparć, przeżarć (60)/
+;-rć;żI lG;-rcia;córć/
+;-rć;żV NT;;barć, śmierć, ćwierć, perć, sierć/
+;-rć;VIa i;-rcić;karć, uśmierć, wierć, korć (18)/
+;(aść;żV N;;aść(m)/
+;kłaść;XI B;*kładzie;pokłaść (4)/
+;właść;żV NT;;właść!/
+;maść;żV NT;;/
+;maść;VIa i;maścić;omaść (4)/
+;-paść;VIa i;-paścić;zaprzepaść/
+;paść;żV NT;;zapaść, przepaść/
+;paść;Vc B;*padnie;podupaść(v?) (17)/
+;paść;XI B;*pasie;napaść (15)/
+;kraść;Vc B;*kradnie;wykraść(v?) (17)/
+;waść;żV N;;waść(m)/
+;-waść;VIa i;-waścić;odchwaść (4)/
+;siąść;XII B;*siądzie;przysiąść (19)/
+;prząść;XI B;*przędzie;uprząść (8)/
+;trząść;XI B;*trzęsie;wytrząść (12)/
+;-bieść;VIa i;-bieścić;niebieść (2)/
+;mieść;VIa i;mieścić;zamieść, przemieść, rozmieść, zmieść (7)/
+;mieść;XI B;*miecie;zamieść, przemieść, rozmieść, zmieść (17)/
+;gnieść;XI B;*gniecie;zgnieść (12)/
+;nieść;XI B;*niesie;unieść (18)/
+;pieść;VIa i;pieścić;popieść (10)/
+;sieść;XI B;*siędzie;usieść (5)/
+;wieść;żV NT;*wieści;powieść (6)/
+;wieść;VIa i;wieścić;obwieść, zniewieść (4)/
+;wieść;XI B;*wiedzie;uwieść (16)/
+;-jeść;żV NT;*-jeści;rękojeść, trojeść!, tojeść!/
+;jeść;XII B;*je;zjeść (18)/
+;pleść;XI B;*plecie;rozpleść (12)/
+;-leść;VIa i;-leścić;szeleść (4)/
+;-leść;żV NT;;boleść/
+;treść;żV NT;*treści;/
+;-treść;VIa i;-treścić;natreść?, streść/
+;teść;mI N;;/
+;teść;żI lG;teścia;teść/
+;cześć;żV NT;*czci;/
+;-cześć;VIa i;-cześcić;bezcześć (2)/
+;grześć;XI B;*grzebie;pogrześć (4)/
+;-rześć;mI N;;Brześć/
+;sześć;Ka 1;;/
+;żeść;żV NT;*żeści;żeść!/
+;-ęść;nI lG;-ęście;zamęść, nieszczęść/
+;-ęść;żV NT;;pięść, część, chrzęść/
+;-ęść;VIa i;-ęścić;rozgęść, szczęść, chrzęść (13)/
+;-ęść;VIIa i;-ęścić;chrzęść? (2)/
+;-iść;mI N;;liść/
+;-iść;nI lG;-iście;wniść/
+;-iść;żV NT;;kiść, nienawiść, zawiść/
+;-iść;VIa i;-iścić;uiść?, ziść?, rozogniść (się) (5)/
+;iść;XII B;*idzie;wniść, wyniść/
+;-jść;nI lG;-jście;najść, zajść, obejść, ujść (18)/
+;-jść;XII B;*-jdzie;podejść, pójść, przejść, wznijść (22)/
+;-lść;żV NT;;pilść/
+;(ość;żV NT;;/
+;-bość;żV NT;;słabość, lubość, grubość/
+;bość;XI B;*bodzie;ubość(v: ubóść)/
+;-cość;żV NT;;gorącość, obcość, kobiecość, nicość (11)/
+;dość;;;dość, zadość/
+;-dość;żV NT;;bladość, radość, młodość, twardość, chudość (9)/
+;-gość;żV NT;;nagość, mnogość, wrogość, długość (10)/
+;gość;mI N;;telegość/
+;gość;żI lG;gościa;gość/
+;gość;VIa i;gościć;gość (5)/
+;-hość;żV NT;;błahość, cichość, płochość, suchość (6)/
+;-iość;żV NT;;olbrzymiość, taniość, odpowiedniość, bezpośredniość (20)/
+;-kość;;;psiakość(w)/
+;-kość;VIa i;-kościć;pokość/
+;kość;żV NT;;jakość, gibkość, wysokość, boskość, marskość (160)/
+;-lość;żV NT;;wielość, ilość/
+;-łość;żV NT;;małość, wytrzymałość, ciągłość, miłość, włość (250)/
+;-łość;VIa i;-łościć;złość (5)/
+;-mość;mI N;;jegomość, aszmość/
+;mość;żV NT;;tożsamość, jejmość, uprzejmość, waszmość(m) (30)/
+;mość;VIa i;mościć;umość (6)/
+;-ność;żV NT;;wielebność(m), godność, spójność, wolność, cenność (2050)/
+;-pość;żV NT;;skąpość, krępość, tępość/
+;pość;VIa i;pościć;przepość (5)/
+;-rość;mI N;;parość/
+;-rość;żV NT;;starość, szarość, mądrość, zazdrość, szczerość (22)/
+;rość;Vc B;*rośnie;rość(v: wyrosnąć)/
+;rość;VIa i;rościć;zazdrość, uprość (6)/
+;rość;XI B;*roście;rość!?/
+;-sość;żV NT;;kusość/
+;-tość;żV NT;;ciętość, litość, oleistość, sytość (300)/
+;-wość;żV NT;;prawość, niegodziwość, ideowość, trzeźwość (640)/
+;-czość;żV NT;;stronniczość, twórczość, porywczość, czczość (85)/
+;-szość;żV NT;;mniejszość, teraźniejszość, większość, wyższość (17)/
+;-żość;żV NT;;świeżość, dużość, chyżość/
+;bóść;XI B;*bodzie;ubóść(v) (6)/
+;róść;Vc B;*rośnie;wyróść(v: wyrosnąć) (12)/
+;-rść;żV NT;;garść, sierść/
+;uść;nI lG;uście;uść/
+;-uść;żV NT;;czeluść/
+;-uść;VIa i;-uścić;zaczeluść, tłuść, puść, chruść, szuść (30)/
+;-yść;żV NT;;kopyść, korzyść/
+;-yść;VIa i;-yścić;czyść, skorzyść! (10)/
+;-buć;nI lG;-bucie;obuć/
+;-buć;Xa B;*-buje;obuć/
+;cuć;VIa i;cucić;docuć (5)/
+;duć;nI lG;ducie;/
+;duć;Xa B;*duje;/
+;chuć;żV NT;;pochuć/
+;-iuć;żI lG;-iucia;ciuć!/
+;-kuć;mI N;;turkuć/
+;kuć;nI lG;kucie;okuć (14)/
+;kuć;Xa B;*kuje;skuć (16)/
+;-luć;nI lG;-lucie;wykluć, wypluć/
+;-luć;Xa B;*-luje;kluć, pluć (9)/
+;-łuć;nI lG;-łucie;nakłuć/
+;-łuć;Xa B;*-łuje;kłuć (12)/
+;-muć;VIa i;-mucić;bałamuć, kałamuć, smuć, czmuć (20)/
+;nuć;VIa i;nucić;zanuć (6)/
+;-nuć;nI lG;-nucie;knuć, osnuć/
+;-nuć;Xa B;*-nuje;knuć, snuć (17)/
+;-puć;mI N;;papuć/
+;-ruć;nI lG;-rucie;rozpruć, zatruć (15)/
+;-ruć;VIa i;-rucić;zruć (2)/
+;-ruć;Xa B;*-ruje;pruć, truć (19)/
+;-suć;nI lG;-sucie;popsuć/
+;suć;Xa B;*suje;osuć, psuć (17)/
+;czuć;;;czuć(o)/
+;czuć;nI lG;czucie;odczuć, przeczuć, uczuć, zaszczuć (20)/
+;czuć;Xa B;*czuje;czuć, współczuć, szczuć (20)/
+;rzuć;VIa i;rzucić;wyrzuć (18)/
+;zuć;nI lG;zucie;wyzuć, zuć? (7+20)/
+;zuć;Xa B;*zuje;nazuć, wyzuć (10+20)/
+;żuć;nI lG;-żucie;żuć?/
+;żuć;Xa B;*żuje;przeżuć (7)/
+;-wć;żI lG;-wcia;kawć?/
+;być;nI lG;bycie;nabyć (17)/
+;być;XII B;*będzie;nabyć, (się) obyć, zdobyć, zbyć (18)/
+;dyć;;;zawżdyć, wżdyć/
+;-dyć;żI lG;-dycia;mołodyć!/
+;chyć;VIa i;chycić;chyć (2)/
+;-łyć;VIa i;-łycić;spłyć/
+;myć;nI lG;mycie;przemyć (12)/
+;-myć;VIa i;-mycić;przemyć (2)/
+;myć;Xa B;*myje;wymyć (13)/
+;ryć;nI lG;rycie;nakryć, odkryć, okryć (20)/
+;ryć;Xa B;*ryje;kryć (22)/
+;-syć;;;dosyć/
+;syć;VIa i;sycić;dosyć (8)/
+;tyć;nI lG;tycie;utyć/
+;tyć;Xa B;*tyje;przytyć (7)/
+;-wyć;VIa i;-wycić;chwyć (13)/
+;wyć;nI lG;wycie;/
+;wyć;Xa B;*wyje;zawyć (5)/
+;-czyć;VIa i;-czycić;(się) szczyć (5)/
+;-czyć;VIb B;*-czy;znaczyć, leczyć, kończyć, uczyć, niszczyć, marszczyć (720)/
+;rzyć;żV NT;*rzycie;/
+;-rzyć;VIb B;*-rzy;marzyć, wierzyć, pieprzyć, burzyć (450)/
+;-szyć;VIb B;*-szy;straszyć, węszyć, gorszyć, suszyć (200)/
+;szyć;nI lG;szycie;naszyć (17)/
+;szyć;Xa B;*szyje;uszyć (15)/
+;-żyć;VIb B;*-ży;ważyć, dążyć, lżyć, mżyć, łożyć, wróżyć, służyć (320)/
+;żyć;nI lG;życie;przeżyć, nadużyć (14)/
+;żyć;Xa B;*żyje;zażyć, spożyć, użyć (18)/
+;grząźć;Vc B;*grzęźnie;ugrząźć(v: ugrzęznąć)/
+;grząźć;XI B;*grzęzie;grząźć/
+;wieźć;XI B;*wiezie;nawieźć (16)/
+;(naleźć;XI B;*nalezie;/
+;naleźć;XII B;*najdzie;odnaleźć, znaleźć/
+;leźć;XI B;*lezie;obleźć (14)/
+;liźć;XI B;*lizie;/
+;gryźć;XI B;*gryzie;przygryźć (20)/
+;Vć;[2 formy];V + )ć;dajeć, pójdęć/

@@ -1,0 +1,1050 @@
+﻿aleć  0 p
+aszmość mI m1 d
+aść żV m1 d
+babieć III ndk
+babrać IX ndk (się)
+bać XII ndk? się
+bajać IX ndk p
+barć żV
+bawić VIa ndk (się)
+bąkać I ndk
+bąknąć Va dk
+beczeć VIIb ndk
+berbeć mI m1
+bezcześć żV p
+bezpośredniość żV
+biegnąć Vc ndk
+bieleć III ndk d się
+biesić VIa ndk d (się)
+bieżeć VIIb ndk
+bimbać I ndk
+bladość żV
+bluznąć Va dk
+błagać I ndk
+błahość żV
+błyskać I ndk (się)
+błysnąć Va dk
+boć  0
+bogać ? g
+boleć VIIa ndk I
+boleść żV
+boskość żV
+braknąć Vc ndk
+brechać IX ndk
+brnąć Va dk
+bryzgać I ndk
+bryznąć Va dk
+brzechać IX ndk p
+brzękać I ndk
+brzmieć VIIa ndk
+brzydnąć Vc ndk
+budzić VIa ndk (się)
+bujać I ndk (się)
+bujnąć Va dk s. (się)
+burzyć VIb ndk (się)
+bywać I ndk
+cechować IV ndk
+cedzić VIa ndk
+cenić VIa ndk (się)
+cenność żV
+chadzać I ndk
+chichotać IX ndk (się)
+chlać I ndk
+chlać I ndk
+chlastać IX ndk I ndk (się)
+chlastać IX ndk I ndk (się)
+chlusnąć Va dk (się)
+chlustać I ndk IX ndk (się)
+chłonąć Vb ndk
+chłostać IX ndk (się)
+chodzić VIa ndk
+chorzeć III ndk p
+chować I ndk (się)
+chrypieć VIIa ndk
+chrypnąć Vc ndk
+chudnąć Vc ndk
+chudość żV
+chwiać Xb ndk (się)
+chycnąć Va dk g
+chyżość żV
+ciągłość żV
+ciągnąć Va ndk (się)
+cichość żV p
+cieknąć Vc ndk
+cierpieć VIIa ndk (się)
+ciętość żV
+ciosać I ndk
+ciosać I ndk
+cisnąć Va dk (się)
+cofać I ndk (się)
+cofnąć Va dk (się)
+cucić VIa ndk (się)
+cysiać I ndk d
+czadzieć III ndk
+czaić VIa ndk się
+czczość żV
+czekać I ndk
+czeluść żV
+czesać IX ndk (się)
+częstokroć  0 +
+część żV
+czmychnąć Va dk
+czołgać I ndk się
+czuć Xa ndk (się)
+czuć Xa ndk (się)
+czuwać I ndk
+czyhać I ndk
+czynić VIa ndk (się)
+czytać I ndk p się
+ćmić VIa ndk (się)
+ćpać I ndk
+ćwierć żV
+ćwierć żV
+dawać IX ndk (się)
+dążyć VIb ndk
+dbać I ndk
+dębieć III ndk
+długość żV
+dmuchać I ndk
+dnieć III ndk
+dobroć żV
+doić VIa ndk
+dojechać XII dk
+dojrzeć VIIb dk I
+dojrzeć VIIb dk I
+dojrzewać I ndk
+dokarmiać I ndk (się)
+dosięgnąć Va dk
+dosyć  0
+dosyć  0
+doścignąć Va dk
+dość  0 nie
+dośpiać Xb dk d
+doświadczać I ndk
+dożynać I ndk
+dreptać IX ndk
+drgnąć Va dk
+drożeć III ndk
+drzeć XI ndk (się)
+drzemać IX ndk
+drżeć VIIb ndk
+dudnieć VIIa dk
+dufać I ndk d
+dumać I ndk
+dusić VIa ndk (się)
+dużość żV
+dyrnąć Va dk
+dyszeć VIIb ndk
+dziabnąć Va dk (się)
+działać I ndk
+dziamdziać I ndk
+dziczeć III ndk
+dziegieć mI m3
+dziesięć Ka
+dziewięć Ka
+dziwaczeć III ndk
+dźwignąć Va dk (się)
+fajtnąć Va dk (się)
+francuzieć III ndk
+frunąć Vb dk
+fruwać I ndk
+fundnąć Va dk
+ganić VIa ndk
+garnąć Va ndk (się)
+garść żV
+gasić VIa ndk
+gasnąć Vc ndk
+gibać I ndk s. g (się)
+gibkość żV
+ginąć Vb ndk
+głaskać IX ndk (się)
+głupieć III ndk
+gmatwać I ndk (się)
+gnać I ndk p się
+gniewać I ndk (się)
+gnoić VIa ndk
+godność żV
+goić VIa ndk (się)
+golnąć Va dk
+gorącość żV p
+gorszyć VIb ndk (się)
+gościć VIa ndk
+gość mI m1
+gość mI m1
+grabić VIa ndk
+grabieć III ndk
+grać I ndk
+grubieć III ndk
+grubość żV
+grzebać IX ndk (się)
+grzęznąć Vc ndk
+grzmieć VIIa dk
+grzybieć III ndk
+gwazdać IX ndk
+gwizdać IX ndk
+gwizdnąć Va dk
+hać żV g
+hańbić VIa ndk (się)
+hardzieć III ndk
+hulać I ndk
+ideowość żV
+ilość żV
+imać I ndk (się)
+istnieć III ndk
+jagnić VIa ndk s. się
+jakość żV
+jaskrawieć III ndk
+jegomość mI m1
+jejmość żV
+juścić  0 d
+jużcić  0 p
+kalać I ndk się
+kapeć mI m3
+karać IX ndk (się)
+karmić VIa ndk (się)
+kasłać I ndk
+kaszlać IX ndk
+kaszlać IX ndk
+kaszleć XI ndk
+kaszlnąć Va dk
+kazać IX dk IX ndk
+kąsać I ndk (się)
+kibić żV
+kichnąć Va dk
+kicnąć Va dk
+kić żV I d
+kić żV I d
+kiełzać I ndk p
+kilkakroć  0 +
+kimnąć Va dk
+kipieć VIIa ndk
+kisnąć Vc ndk
+kiść żV
+kiwać I ndk (się)
+kiwnąć Va dk (się)
+klapnąć Va dk
+klapsnąć Va dk
+klaskać IX ndk
+klasnąć Va dk
+klecić VIa ndk (się)
+kleć żV
+kleć żV
+kleić VIa ndk (się)
+klęczeć VIIb ndk
+klęsnąć Vc ndk
+kluć Xa ndk się
+kłamać IX ndk
+kłoć żV
+kłuć Xa ndk (się)
+kłykieć mI m3
+kmieć mI m1
+knieć żV
+knować I ndk
+knuć Xa ndk (się)
+knuć Xa ndk (się)
+knykieć mI m3
+kobiecość żV
+kochać I ndk (się)
+koić VIa ndk p się
+kojfnąć Va dk s.
+kolnąć Va dk p
+kołatać IX ndk (się)
+kołysać IX ndk (się)
+konać I ndk
+kończyć VIb ndk (się)
+kopać IX ndk (się)
+kopeć mI m3
+kopsnąć Va dk
+kopyść żV
+korzystać I ndk
+korzyść żV
+kować I ndk p
+kpić VIa ndk
+krajać IX ndk (się)
+krakać IX ndk
+kreślić VIa ndk (się)
+krępość żV
+kruszeć III ndk
+kryć Xa ndk (się)
+krzewić VIa ndk (się)
+krzyczeć VIIb ndk
+kucnąć Va dk
+kudłać I ndk
+kujnąć Va dk
+kuksnąć Va dk
+kulnąć Va dk (się)
+kupić VIa ndk II p (się)
+kusość żV d
+kwefić VIa ndk
+kwitnąć Vc ndk
+kwokać I ndk IX ndk
+lać Xb ndk (się)
+latać I ndk
+lecieć VIIa ndk
+leczyć VIb ndk (się)
+legnąć Vc dk
+lepić VIa ndk (się)
+leżeć VIIb ndk
+lęgnąć Vc ndk (się)
+lgnąć Va ndk
+lić żV d
+linieć III ndk (się)
+liść mI m3
+litość żV
+lizać IX ndk (się)
+lodować IV ndk s.
+lubić VIa ndk (się)
+luboć  0 p
+lubość żV p
+lunąć Vb dk (się)
+lżyć VIb ndk (się)
+łacheć mI m3 s.
+łajać IX ndk (się)
+łaknąć Va ndk d
+łamać IX ndk (się)
+łapać IX ndk (się)
+łapeć mI m3
+łazić VIa ndk
+łechtać IX ndk
+łgać IX ndk
+łkać I ndk
+łokieć mI m3
+łopotać IX ndk
+łotoć żV
+łożyć VIb ndk
+łykać I ndk
+łysieć III ndk
+macać I ndk (się)
+machnąć Va dk (się)
+mać żV d
+maić VIa ndk p się
+małość żV
+mamlać IX ndk
+mamleć IX ndk
+mamłać IX ndk
+marskość żV
+marszczyć VIb ndk (się)
+marznąć Vc ndk
+marzyć VIb ndk (się)
+mazać IX ndk (się)
+maznąć Va dk
+mącić VIa ndk (się)
+mądrość żV
+mądrzeć III ndk
+mdleć III ndk
+memłać IX ndk +
+merdać I ndk
+mężnieć III ndk
+mianować IV dk ndk (się)
+mieć XII ndk (się)
+mieć XII ndk (się)
+mierzić VIa ndk p się
+mierznąć Vc ndk
+miewać I ndk (się)
+mięknąć Vc ndk
+mijać I ndk (się)
+milczeć VIIb ndk
+milknąć Vc ndk
+miłość żV
+minąć Vb dk (się)
+miotać I ndk (się)
+mknąć Va ndk d się
+mlaskać I ndk IX ndk +
+mlaskać I ndk IX ndk +
+młodość żV
+mniejszość żV
+mniemać I ndk d się
+mnogość żV
+modlić VIa ndk się
+moknąć Vc ndk
+mówić VIa ndk
+mrugnąć Va dk
+mrzeć XI ndk
+mścić VIa ndk (się)
+murszeć III ndk
+musieć VIIa ndk
+myśleć VIIa ndk
+mżyć VIb ndk (się)
+nabierać I ndk (się)
+nabyć XII dk (się)
+nabyć XII dk (się)
+nadebrać IX dk
+nadużyć Xa dk
+nagabnąć Va dk
+nagabywać VIIIa ndk
+nagość żV
+naigrawać I ndk się
+najść XII dk? (się)
+nakłuć Xa dk (się)
+nakryć Xa dk (się)
+nalewać I ndk (się)
+namleć XI dk
+napaść żV I
+napawać I ndk II
+napiąć Xc dk (się)
+napocząć Xc dk
+naprawiać I ndk (się)
+narastać I ndk
+narażać I ndk (się)
+narznąć Va dk
+nastoć ndm
+naszyć Xa dk (się)
+nawieźć XI dk
+nazuć Xa dk p
+nazwać IX dk (się)
+nazywać I ndk (się)
+nęcić VIa ndk p się
+nicość żV
+niechęć żV
+niegodziwość żV
+nienawiść żV
+niewieścieć III ndk
+niknąć Vc ndk
+niszczeć III ndk
+niszczyć VIb ndk (się)
+nizać IX ndk
+nosić VIa ndk (się)
+nurzać I ndk (się)
+obciąć Xc dk (się)
+obcość żV
+obejść XII dk? (się)
+obesłać IX dk II
+obgiąć Xc dk
+obić Xa dk (się)
+obiecać I dk A [p] się
+objąć Xc dk (się)
+obleźć XI dk
+obmierżnąć Vc dk d (się)
+obmywać I ndk (się)
+obrać IX dk (się)
+obsiać Xb dk (się)
+obślizgnąć Va dk (się)
+obuć Xa dk (się)
+obuć Xa dk (się)
+obwieść XI dk
+obyć XII dk się
+obżąć Xc dk
+ochełznąć Va dk d
+ochełznąć Va dk d
+ochłodnąć Vc dk
+oczekiwać VIIIb ndk
+oczyszczać I ndk (się)
+odciąć Xc dk (się)
+odczuć Xa dk
+oddziaływać I ndk VIIIa ndk
+odebrać IX dk
+odgadnąć Vc dk
+odgiąć Xc dk (się)
+odjąć Xc dk d się
+odkląć Xc dk d
+odkryć Xa dk (się)
+odnaleźć XII dk (się)
+odpiąć Xc dk (się)
+odpisywać VIIIa ndk d się
+odpoczywać I ndk
+odpowiedniość żV
+odziać Xb dk (się)
+odżąć Xc dk
+odżywiać I ndk (się)
+ogłupiać I ndk
+ogryzać I ndk (się)
+okiełznąć Va dk d
+oklapnąć Vc dk
+okpiwać I ndk (się)
+okrążać I ndk
+okryć Xa dk (się)
+okuć Xa dk (się)
+olbrzymieć III ndk
+olbrzymiość żV
+oleić VIa dk s.
+oleistość żV
+oliwić VIa ndk (się)
+olsnąć Va dk d
+omgliwać I ndk VIIIb ndk
+omieszkiwać VIIIb ndk
+oniemieć III dk
+opasać I ndk II
+opierzać I ndk (się)
+orać IX ndk (się)
+orosieć III dk
+ortęć żV
+osieć żV g
+osłabić VIa dk (się)
+osłaniać I ndk (się)
+osłupieć III dk
+osnuć Xa dk (się)
+osuć Xa dk d
+otaczać I ndk (się)
+owinąć Vb dk (się)
+ozdabiać I ndk (się)
+pachnieć ndk
+pacnąć Va dk
+padnąć Vc dk d
+palić VIa ndk (się)
+pamięć żV
+pamiętać I ndk
+paprać IX ndk (się)
+paproć żV
+papuć mI m3
+parać I ndk się
+parość mI m3 żI? d
+parskać I ndk (się)
+pasać IX ndk I (się)
+patrzeć VIIb ndk (się)
+paznokieć mI m3
+pąć żV d
+pchnąć Va dk (się)
+pełzać I ndk
+pełznąć Vc ndk (-źnie)
+pełznąć Vc ndk (-źnie)
+perć żV
+piać Xb ndk
+pieczęć żV
+pieprzyć VIb ndk
+pierdnąć Va dk s.
+pierniczeć III ndk s.
+pięść żV
+pilść żV d
+pisać IX ndk (się)
+plamić VIa ndk (się)
+plątać IX ndk (się)
+pleć żV II d
+pleskać IX ndk d
+pluć Xa ndk
+pluskać I ndk (się)
+plwać I ndk p
+płacheć mI m3
+płacić VIa ndk d się
+płakać IX ndk
+płaskoć żV
+płatnąć Va dk
+płochość żV
+płoć żV
+płonąć Vb ndk
+płukać IX ndk (się)
+płynąć Vb ndk
+pływać I ndk
+poboliwać I ndk VIIIb ndk p
+pobrać IX dk (się)
+pochuć żV d
+począć Xc dk (się)
+podciąć Xc dk (się)
+poddąć Xc dk p
+podebrać IX dk d się
+podejść XII dk?
+podgiąć Xc dk (się)
+podjąć Xc dk (się)
+podobać I ndk d
+podobnoć  0
+podpiąć Xc dk
+podrygiwać VIIIb ndk
+podskakiwać VIIIb ndk
+podtatusieć III dk s.
+podupaść Vc dk
+pogrześć XI dk
+poić VIa ndk (się)
+pojąć Xc dk (się)
+pojmać IX dk p
+pokaszliwać VIIIb dk
+pokłaść XI dk (się)
+pokurć mI m2 g
+połać żV
+połeć mI m3
+pomiąć Xc dk (się)
+pomrukiwać VIIIb ndk
+ponoć  0
+popędzać I ndk
+popsuć Xa dk (się)
+porywczość żV
+posłać IX dk d się
+postać żV I
+postać żV I
+posyłać I ndk
+pośliznąć Va dk się
+pouczać I ndk d się
+powić Xa dk p się
+powiedzieć XII dk
+powieść żV II
+powstać XII dk
+poznawać IX ndk (się)
+pójść XII dk?
+pracować IV ndk
+pragnąć Va ndk
+prawość żV
+pruciać I ndk g
+pruć Xa ndk (się)
+przebrać IX dk (się)
+przeczuć Xa dk
+przeć XI ndk I (się)
+przegniwać I ndk
+przejść XII dk? (się)
+przekląć Xc dk
+przemieść XI dk
+przemieść XI dk
+przemyć Xa dk
+przemyć Xa dk
+przemyśliwać I ndk VIIIb ndk
+przepaść żV I
+przepić Xa dk (się)
+przesłuchiwać VIIIb ndk (się)
+przeżuć Xa dk
+przeżyć Xa dk (się)
+przygryźć XI dk
+przyjąć Xc dk (się)
+przysiąść XII dk (się)
+przystanąć Vb dk
+przytyć Xa dk
+przywrzeć XI dk II (się)
+psiakość ndm
+psiamać ndm
+psuć Xa ndk (się)
+puchnąć Vc ndk
+pustać żV
+pustoszeć III ndk
+puszczać I ndk (się)
+puścić VIa dk (się)
+pypeć mI m3
+rać żV g
+radość żV
+radzić VIa ndk (się)
+raić VIa ndk
+razić VIa ndk
+rąbać IX ndk p się
+rąbnąć Va dk (się)
+rdzewieć III ndk
+rękojeść żV
+robić VIa ndk (się)
+ropieć III ndk
+rosnąć Vc ndk
+rość Vc ndk d
+rość Vc ndk d
+rozchełstać I dk (się)
+rozciąć Xc dk (się)
+rozcząć Xc dk d
+rozdać XII dk
+rozdąć Xc dk
+rozdjąć Xc dk d
+rozebrać IX dk (się)
+rozemleć XI dk
+rozesłać IX dk II
+rozgałęziać I ndk (się)
+rozganiać I ndk
+rozkląć Xc dk się
+rozmachiwać VIIIb ndk (się)
+rozmieść XI dk
+rozmieść XI dk
+rozpiąć Xc dk (się)
+rozpić Xa dk (się)
+rozpleść XI dk (się)
+rozpruć Xa dk (się)
+rozstrzeliwać VIIIb ndk (się)
+rozumieć II ndk (się)
+rozwiązywać VIIIa ndk (się)
+równać I ndk (się)
+rtęć żV
+runąć Vb dk
+rupieć mI m3
+ruszać I ndk (się)
+rymnąć Va dk
+rzednąć Vc ndk
+rzezać I ndk p
+rzucać I ndk (się)
+rżeć VIIb ndk
+samodziesięć + d
+samotrzeć ? d
+schamieć III dk
+schnąć Vc dk
+sczeznąć Vc dk
+siadać I ndk
+sianożęć żV p
+sianożęć żV p
+siąknąć Vc dk
+siąpać I ndk
+siedzieć VIIa ndk
+sierć żV d
+sierść żV
+sięgać I ndk (się)
+sięgnąć Va dk
+siusiać I ndk
+siwieć III ndk
+skakać IX ndk
+skamlać I ndk IX ndk
+skamłać I ndk IX ndk
+skąpić VIa ndk
+skąpość żV
+skinąć Vb dk
+skomleć VIIa ndk
+skrapiać I ndk (się)
+skrawać I ndk
+skrobać IX ndk (się)
+skrzypieć VIIa ndk
+skrzypnąć Va dk
+skubać IX ndk (się)
+skubnąć Va dk (się)
+skuć Xa dk (się)
+słabnąć Vc ndk
+słabość żV
+służyć VIb ndk
+słychać I ndk
+słynąć Vb ndk
+słyszeć VIIb ndk (się)
+smagnąć Va dk
+snać ? p
+snować I ndk p się
+snuć Xa ndk (się)
+spawać I ndk
+spić Xa dk (się)
+spluwać I ndk
+spłacheć mI m3
+spocząć Xc dk
+spojrzeć VIIb dk (się)
+spożyć Xa dk
+spożywać I ndk
+spójność żV
+sprać IX dk (się)
+sprzątać I ndk
+sprzedać XII dk (się)
+sprzedawać IX ndk (się)
+stać ndk
+stanąć Vb dk
+starć XI dk
+starość żV
+stawać IX ndk się
+stąpać I ndk
+stokroć żV II
+straszyć VIb ndk (się)
+stroić VIa ndk (się)
+stronniczość żV
+strugać I ndk (się)
+strugać I ndk (się)
+stygnąć Vc ndk
+suchość żV
+sunąć Vb ndk p się
+suszyć VIb ndk (się)
+suwać I ndk (się)
+sypiać I ndk
+sytość żV
+szachować IV ndk
+szaleć III ndk
+szarość żV
+szarpać IX ndk (się)
+szarzeć III ndk
+szczeć żV?
+szczeknąć Va dk
+szczerość żV
+szczęknąć Va dk
+szczuć Xa ndk
+szeleścić VIa ndk
+szemrać IX ndk
+szeptać IX ndk (się)
+szlachcieć III ndk d
+szukać I ndk (się)
+szumieć VIIa ndk II
+szurać I ndk p się
+szurnąć Va dk
+szydzić VIa ndk i się
+ścierpnąć Vc dk
+ślepnąć Vc ndk
+śmieć II ndk II
+śmieć II ndk II
+śmieć II ndk II
+śmierć żV
+śmierdzieć VIIa ndk
+śnieć żV
+śniedzieć III ndk
+świergotać IX ndk
+świerzbieć VIIa ndk
+świeżość żV
+świstać IX ndk
+tać  0 d
+taić VIa ndk (się)
+tajać IX ndk s. p się
+taniość żV
+tarzać I ndk (się)
+telegość mI m1
+teraźniejszość żV
+teść mI m1
+tępieć III ndk
+tępość żV
+tętnić VIa ndk
+tężeć III ndk
+tkwieć VIIa ndk d
+tlić VIa ndk się
+tojeść żV
+tonąć Vb ndk
+topnieć III ndk
+torfieć III ndk
+tożsamość żV
+trafiać I ndk (się)
+trafić VIa dk (się)
+trefić VIa ndk II
+troć żV
+trojeść żV
+truć Xa ndk (się)
+trupieszeć III ndk d
+trzaskać I ndk (się)
+trząchnąć Va dk g
+trząsnąć Va dk g
+trzeć XI ndk (się)
+trzepać IX ndk (się)
+trzepnąć Va dk (się)
+trzepotać IX ndk (się)
+trzeźwieć III ndk
+trzeźwość żV
+trzykroć +
+trzymać I ndk (się)
+tupać IX ndk
+turkuć mI m2
+twardość żV
+twórczość żV
+tyrać I ndk p się
+tyrpać I ndk
+ubość XI dk d
+ubożeć III ndk
+ubóstwiać I ndk (się)
+ubóść XI dk
+uciąć Xc dk (się)
+ucinać I ndk (się)
+uczuć Xa dk p się
+uczyć VIb ndk (się)
+ufać I ndk
+ugaszczać I ndk (się)
+ugrząźć Vc dk
+uiszczać I ndk p się
+ujść XII dk?
+ukanąć Vb dk d
+ulęknąć Vc dk się
+umieć II ndk
+umieszczać I ndk (się)
+unieść XI dk (się)
+uprać IX dk
+uprząść XI dk
+uprzejmość żV
+urwipołeć mI m1
+usługiwać VIIIb ndk d się
+uszczwać I dk d
+uszyć Xa dk
+utleniać I ndk (się)
+utyć Xa dk
+uwić Xa dk d się
+uwielbiać I ndk
+uwieść XI dk (się)
+uwięznąć Vc dk
+uwroć żV
+uzdać I ndk
+uziemiać I ndk
+uziemić VIa dk
+użyczać I ndk d się
+użyć Xa dk
+wać mI m1 d
+wahać I ndk się
+wahnąć Va dk się
+wałęsać I ndk się
+waszeć żV m1 d
+waszmościać I ndk d
+waszmość mI m1 d
+waść żV m1 d
+ważyć VIb ndk (się)
+wąchać I ndk (się)
+wątpić VIa ndk
+wciąć Xc dk (się)
+wduszać I ndk
+wdziać Xb dk
+webrać IX dk d się
+wejźrzeć VIIb dk d
+wesłać IX dk
+wędzić VIa ndk II d
+węszyć VIb ndk
+wgiąć Xc dk (się)
+wiać Xb ndk
+wiązać IX ndk (się)
+wiąznąć Vc ndk p
+wić żV I
+widać  nsb
+widzieć VIIa ndk (się)
+wiecheć mI m3
+wielebność m2?I
+wielekroć  0 +
+wielość żV
+wierzyć VIb ndk
+wietrzeć III ndk
+więdnąć Vc ndk
+większość żV
+więzić VIa ndk
+wilgoć żV
+wilgoć żV
+winić VIa ndk d
+wionąć Vb dk
+wisieć VIIa ndk
+witać I ndk (się)
+wjeżdżać I ndk
+właść żV d
+włoć żV
+włość żV p
+wniść XII dk?
+wniść XII dk?
+woleć VIIa ndk
+wołać I ndk
+wozić VIa ndk (się)
+wracać I ndk (się)
+wrogość żV
+wrócić VIa dk (się)
+wróżyć VIb ndk
+współbrać żV d
+współczuć Xa ndk
+wychynąć Vb dk p się
+wydąć Xc dk (się)
+wydrwiwać I ndk p się
+wygłaszać I ndk
+wygnić Xa dk
+wygoreć XII dk?III d
+wykluć Xa dk się
+wyknąć Va ndk Vc ndk d
+wykoleić VIa dk (się)
+wykonywać VIIIa ndk
+wykonywać VIIIa ndk
+wykraść Vc dk (się)
+wymyć Xa dk (się)
+wynająć Xc dk (się)
+wyniść XII dk? d
+wypatrywać VIIIa ndk (się)
+wypleć XI dk
+wypluć Xa dk (się)
+wypsnąć Va dk się
+wyróść Vc dk
+wyróżniać I ndk (się)
+wysokość żV
+wyssać IX dk
+wysysać I ndk
+wyszydzać I ndk
+wyśmiać Xb dk (się)
+wytrwać I dk
+wytrząść XI dk (się)
+wytrzymałość żV
+wyzuć Xa dk (się)
+wyzuć Xa dk (się)
+wyżąć Xc dk II
+wyżąć Xc dk II
+wyższość żV
+wzbić Xa dk (się)
+wznijść XII dk? d
+wżąć Xc dk się
+wżdyć  0 d
+zabagnić VIa dk (się)
+zabawiać I ndk (się)
+zachcieć XII dk się
+zacząć Xc dk (się)
+zaczerpnąć Va dk
+zadość  0 d
+zagadnąć Va dk
+zagaić VIa dk p się
+zagiąć Xc dk (się)
+zaglądnąć Va dk
+zagrać I dk (się)
+zagrzać Xb dk (się)
+zająć Xc dk (się)
+zajść XII dk? p się
+zakąsić VIa dk
+zakompleksiać I ndk s. (się)
+zalepiać I ndk
+zalesiać I ndk
+zamarzać I ndk III (się)
+zamieć żV
+zamieć żV
+zamieść XI dk
+zamieść XI dk
+zaognić VIa dk (się)
+zapaść żV III
+zapomnąć Va dk
+zapomnieć VIIa dk (się)
+zaprzątnąć Va dk p się
+zaprzepaść Vc dk d
+zaprzestać XII dk
+zapyzieć III dk
+zarabiać I ndk p się
+zarachowywać VIIIa ndk
+zarybiać I ndk (się)
+zarżnąć Va dk (się)
+zasłać IX dk II (się)
+zaspać XII dk d się
+zastać I dk (się)
+zasypywać VIIIa ndk (się)
+zaszczuć Xa dk
+zaszywać I ndk (się)
+zatęchnąć Vc dk
+zatruć Xa dk (się)
+zawiadamiać I ndk d się
+zawiadomić VIa dk (się)
+zawijać I ndk (się)
+zawilgnąć Vc dk
+zawisnąć Vc dk
+zawiść żV
+zawrzeć XI dk II
+zawszeć  0
+zawyć Xa dk
+zawżdyć  0 d
+zazdrość żV
+zazdrość żV
+zażyć Xa dk
+zbyć XII dk (się)
+zdąć Xc dk
+zdechnąć Vc dk
+zdjąć Xc dk (się)
+zdobyć XII dk (się)
+zdrowieć III ndk
+zdrzemnąć Va dk się
+zdumieć III dk II d
+zdychać I ndk
+zebrać IX dk (się)
+zelżeć III dk
+zemleć XI dk
+zerwać IX dk (się)
+zeżreć XI dk p się
+zgiąć Xc dk (się)
+zgnieść XI dk
+zgrzytnąć Va dk
+zidiocieć III dk
+ziewać I ndk
+ziewnąć Va dk
+ziębnąć Vc ndk
+zionąć Vb ndk Vb dk
+zjąć Xc dk d
+zjeść XII dk (się)
+zliczać I ndk
+złoć żV
+złoć żV
+złość żV
+zmarzłoć żV
+zmiąć Xc dk
+zmieść XI dk p się
+zmieść XI dk p się
+zmniejszać I ndk (się)
+znaczyć VIb ndk (się)
+znać I ndk (się)
+znać I ndk (się)
+znaleźć XII dk (się)
+zniechluić VIa dk i
+zostać XII dk (się)
+zrywać I ndk (się)
+zrzeć XI ndk d
+zwalniać I ndk (się)
+zwić żV II i
+zwiedzać I ndk
+zwieszać I ndk (się)
+zwyciężać I ndk d się
+zziajać IX dk się
+zziajać IX dk się
+zżąć Xc dk II d
+źreć XI ndk I
+źreć XI ndk I
+żądać I ndk
+żebrać IX ndk
+żebrzeć VIIb ndk d
+żenąć Vb ndk (się)
+żeść żV d
+żółcieć III ndk
+żółć żV
+żółć żV
+żółknąć Vc ndk
+żuć Xa ndk
+żywić VIa ndk (się)

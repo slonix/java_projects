@@ -1,0 +1,555 @@
+;-baæ;I B;*-ba;dbaæ, (siê) gibaæ, bimbaæ, (siê) podobaæ (20)/
+;-baæ;VIa i;-baciæ;przekabaæ, garbaæ/
+;-baæ;IX B;*-bie;r¹baæ, grzebaæ, skrobaæ, skubaæ (85)/
+;baæ;XII B;*boi;(siê) baæ (3)/
+;-caæ;I B;*-ca;obiecaæ, rzucaæ, macaæ, wracaæ (280)/
+;zdaæ;XII B;*zda;/
+;-zdaæ;I B;*-zda;uzdaæ (4)/
+;-zdaæ;IX B;*-¿d¿e;gwazdaæ!, gwizdaæ (10)/
+;-daæ;;;widaæ(o)/
+;-daæ;I B;*-da;siadaæ, ¿¹daæ, merdaæ, drzyzdaæ? (250)/
+;daæ;XII B;*da;sprzedaæ, rozdaæ (20)/
+;-faæ;I B;*-fa;cofaæ, dufaæ, ufaæ (9)/
+;-zgaæ;IX B;*-¿d¿e;bryzgaæ?/
+;gaæ;¿V NT;;/
+;gaæ;VIa i;gaciæ;koligaæ, wzbogaæ (6)/
+;-gaæ;;;bogaæ/
+;-gaæ;I B;*-ga;b³agaæ, siêgaæ, czo³gaæ, strugaæ (320)/
+;-gaæ;IX B;*-¿e;³gaæ, strugaæ! (9)/
+;jechaæ;XII B;*jedzie;dojechaæ (16)/
+;-chaæ;;;s³ychaæ(o)/
+;-chaæ;VIa i;-chaciæ;mechaæ (2)/
+;-chaæ;I B;*-cha;w¹chaæ, kochaæ, dmuchaæ, zdychaæ (220)/
+;-chaæ;IX B;*-sze;brechaæ, brzechaæ (3)/
+;haæ;¿V NT;;haæ!/
+;-haæ;I B;*-ha;wahaæ, czyhaæ (5 + 220)/
+;-biaæ;I B;*-bia;ozdabiaæ, zarabiaæ, uwielbiaæ, zarybiaæ (125)/
+;-ciaæ;I B;*-cia;ciapciaæ?, papciaæ?, ciupciaæ?, waszmoœciaæ, pruciaæ? (7)/
+;-fiaæ;I B;*-fia;trafiaæ (6)/
+;œmiaæ;Xb B;*œmieje;wyœmiaæ (12)/
+;-miaæ;I B;*-mia;zawiadamiaæ, uziemiaæ, dokarmiaæ, ujarzmiaæ (50)/
+;-niaæ;I B;*-nia;rozganiaæ, os³aniaæ, utleniaæ, zwalniaæ, wyró¿niaæ (480)/
+;-piaæ;I B;*-pia;skrapiaæ, zalepiaæ, og³upiaæ, sypiaæ (130)/
+;piaæ;Xb B;*pieje;piaæ, doœpiaæ (7)/
+;-siaæ;I B;*-sia;zalesiaæ, zakompleksiaæ, siusiaæ, cysiaæ (12)/
+;siaæ;Xb B;*sieje;obsiaæ (16)/
+;-wiaæ;I B;*-wia;zabawiaæ, naprawiaæ, od¿ywiaæ, ubóstwiaæ (300)/
+;-wiaæ;Xb B;*-wieje;chwiaæ, wiaæ (17)/
+;-dziaæ;I B;*-dzia;dziamdziaæ/
+;dziaæ;Xb B;*dzieje;odziaæ, wdziaæ (20)/
+;-ziaæ;I B;*-zia;od¿eleziaæ, rozga³êziaæ (5)/
+;ziaæ;Xb B;*zieje;/
+;-jaæ;I B;*-ja;zziajaæ, bajaæ, mijaæ, zawijaæ, bujaæ (200)/
+;-jaæ;IX B;*-je;(siê) zziajaæ, ³ajaæ, krajaæ, tajaæ (35)/
+;-skaæ;I B;*-ska;mlaskaæ, parskaæ, trzaskaæ, b³yskaæ (100)/
+;-skaæ;IX B;*-szcze;klaskaæ, mlaskaæ, g³askaæ, pleskaæ, pluskaæ (20?)/
+;-kaæ;VIa i;-kaciæ;delikaæ, pstrokaæ (6)/
+;-kaæ;I B;*-ka;b¹kaæ, czekaæ, brzêkaæ, ³kaæ, szukaæ, ³ykaæ (520+100)/
+;-kaæ;IX B;*-cze;skakaæ, p³akaæ, krakaæ, kwokaæ, p³ukaæ (45)/
+;-laæ;I B;*-la;kalaæ, chlaæ, hulaæ, kaszlaæ! (420)/
+;-laæ;IX B;*-le;paplaæ, kaszlaæ!, mamlaæ, skamlaæ (20)/
+;laæ;Xb B;*leje;chlaæ, laæ (11)/
+;-es³aæ;IX B;*œciele;obes³aæ, wes³aæ, rozes³aæ (7)/
+;s³aæ;IX B;*œciele;zas³aæ (10)/
+;s³aæ;IX B;*œle;pos³aæ (15)/
+;³aæ;VIa i;³aciæ;kud³aæ, p³aæ (18)/
+;-³aæ;¿V NT;;po³aæ/
+;-³aæ;I B;*-³a;dzia³aæ, wo³aæ, mem³aæ, kas³aæ, posy³aæ (100)/
+;-³aæ;IX B;*-le;skam³aæ!, mam³aæ (4)/
+;maæ;¿V NT;;maæ!/
+;-maæ;;;psiamaæ(w)/
+;-maæ;VIa i;-maciæ;skosmaæ, zeszmaæ (3)/
+;-maæ;I B;*-ma;mniemaæ, imaæ, dumaæ, trzymaæ (70)/
+;-maæ;IX B;*-mie;k³amaæ, ³amaæ, drzemaæ, pojmaæ (40)/
+;naæ;¿V NT;;/
+;-naæ;;;snaæ, znaæ(o)/
+;-naæ;I B;*-na;gnaæ, ucinaæ, konaæ, równaæ, do¿ynaæ, znaæ (200)/
+;spaæ;XII B;*œpi;zaspaæ (10)/
+;-paæ;VIa i;-paciæ;konopaæ/
+;-paæ;I B;*-pa;si¹paæ, st¹paæ, æpaæ, tyrpaæ (15)/
+;-paæ;IX B;*-pie;³apaæ, trzepaæ, kopaæ, szarpaæ, tupaæ (230)/
+;(wezbraæ;IX B;*wzbierze;/
+;-ebraæ;IX B;*-bierze;nadebraæ, podebraæ, odebraæ, webraæ, rozebraæ, zebraæ/
+;braæ;¿V NT;;wspó³braæ/
+;braæ;VIa i;braciæ; pobraæ (4)/
+;braæ;IX B;*bierze;przebraæ, obraæ (15)/
+;-braæ;IX B;*-brze;¿ebraæ (4)/
+;(zepraæ;IX B;*spierze;/
+;-epraæ;IX B;*-pierze;podepraæ/
+;praæ;IX B;*pierze;spraæ(v: zepraæ), upraæ (12)/
+;raæ;¿V NT;;raæ!/
+;-raæ;VIa i;-raciæ;zagraæ, traæ (13 + 4)/
+;-raæ;I B;*-ra;(siê) paraæ, nabieraæ, graæ, szuraæ, tyraæ (230)/
+;-raæ;IX B;*-rze;karaæ, babraæ, szemraæ, oraæ, papraæ (40)/
+;ciosaæ;IX B;*ciosze;ciosaæ!/
+;ssaæ;IX B;*ssie;wyssaæ (18)/
+;-saæ;I B;*-sa;pasaæ, k¹saæ, (siê) wa³êsaæ, ciosaæ, wysysaæ (100)/
+;-saæ;IX B;*-sze;opasaæ, czesaæ, pisaæ, ko³ysaæ (60)/
+;(staæ;;;staæ(o)/
+;-staæ;¿V NT;;postaæ, pustaæ/
+;-staæ;I B;*-sta;chlastaæ, narastaæ, rozche³staæ, korzystaæ (70)/
+;-staæ;VIa i;-staciæ;upostaæ/
+;-staæ;IX B;*-szcze;chlastaæ, œwistaæ, ch³ostaæ, chlustaæ (25)/
+;staæ;XII B;*stoi;postaæ (10?)/
+;staæ;XII B;*stanie;zastaæ, zaprzestaæ, zostaæ, powstaæ (25?)/
+;taæ;;;taæ!/
+;-taæ;I B;*-ta;lataæ, sprz¹taæ, pamiêtaæ, witaæ, miotaæ, czytaæ (150+70)/
+;-taæ;IX B;*-ce;œwiergotaæ, chichotaæ, trzepotaæ, dreptaæ (180?)/
+;-taæ;IX B;*-cze;ko³ataæ, pl¹taæ, ³echtaæ, ³opotaæ, szeptaæ (200)/
+;-awaæ;I B;*-awa;napawaæ, spawaæ, naigrawaæ, skrawaæ (28)/
+;-awaæ;IX B;*-aje;dawaæ, sprzedawaæ, poznawaæ, stawaæ (85)/
+;-ewaæ;I B;*-ewa;miewaæ, gniewaæ, ziewaæ, nalewaæ, dojrzewaæ (170)/
+;-chwaæ;VIa i;-chwaciæ;ochwaæ (2)/
+;-iwaæ;I B;*-iwa;kiwaæ, przegniwaæ, okpiwaæ, omieszkiwaæ, wydrwiwaæ (30)/
+;-iwaæ;VIIIb B;*-uje;us³ugiwaæ, podrygiwaæ, rozmachiwaæ, przes³uchiwaæ, podskakiwaæ, oczekiwaæ, pomrukiwaæ, pokaszliwaæ? (350)/
+;-iwaæ;VIIIb B;*-iwuje;rozstrzeliwaæ, omgliwaæ, poboliwaæ, przemyœliwaæ (17)/
+;-lwaæ;I B;*-lwa;plwaæ (3)/
+;-owaæ;I B;*-owa;chowaæ, kowaæ, knowaæ, snowaæ (25)/
+;-owaæ;IV B;*-uje;pracowaæ, szachowaæ, cechowaæ, mianowaæ (6350)/
+;owaæ;VIa i;owaciæ;owaæ?, lodowaæ, skar³owaæ, spowinowaæ (5)/
+;trwaæ;I B;*trwa;wytrwaæ (6)/
+;rwaæ;IX B;*rwie;zerwaæ (15)/
+;swaæ;¿I lG;swacia;swaæ?/
+;-twaæ;I B;*-twa;gmatwaæ (8)/
+;-uwaæ;I B;*-uwa;spluwaæ, fruwaæ, suwaæ, czuwaæ (120)/
+;-ywaæ;I B;*-ywa;bywaæ,  zdzia³ywaæ, p³ywaæ, obmywaæ, wykonywaæ, zrywaæ, nazywaæ, odpoczywaæ, zaszywaæ, spo¿ywaæ (200?)/
+;-ywaæ;VIIIa B;*-uje;odpisywaæ, zasypywaæ, wypatrywaæ, rozwi¹zywaæ, nagabywaæ, oddzia³ywaæ, wykonywaæ, zarachowywaæ (1200?)/
+;szczwaæ;I B;*szczwa;uszczwaæ (4)/
+;zwaæ;IX B;*zwie;nazwaæ (15)/
+;waæ;¿V(m) N;;waæ!/
+;-szczaæ;I B;*-szcza;ugaszczaæ, umieszczaæ, uiszczaæ, puszczaæ, oczyszczaæ (120)/
+;szczaæ;XII B;*szczy;/
+;-czaæ;I B;*-cza;otaczaæ, doœwiadczaæ, zliczaæ, pouczaæ, u¿yczaæ (290+120)/
+;-dzaæ;I B;*-dza;chadzaæ, zwiedzaæ, popêdzaæ, wyszydzaæ (300)/
+;grzaæ;Xb B;*grzeje;zagrzaæ (17)/
+;-rzaæ;I B;*-rza;zamarzaæ, tarzaæ, opierzaæ, nurzaæ (200)/
+;-szaæ;I B;*-sza;wyg³aszaæ, zwieszaæ, zmniejszaæ, wduszaæ, ruszaæ (225)/
+;-zaæ;I B;*-za;rzezaæ, kie³zaæ, pe³zaæ, ogryzaæ (50 + 1135)/
+;-zaæ;IX B;*-¿e;kazaæ, mazaæ, wi¹zaæ, lizaæ, nizaæ (60)/
+;-¿aæ;I B;*-¿a;nara¿aæ, zwyciê¿aæ, wje¿d¿aæ, okr¹¿aæ (225)/
+;(wzd¹æ;Xc B;*wezdmie;/
+;Cd¹æ;Xc B;*Cedmie;podd¹æ, zd¹æ, rozd¹æ/
+;Vd¹æ;Xc B;*Vdmie;wyd¹æ (7)/
+;(œci¹æ;Xc B;*zetnie;/
+;Cci¹æ;Xc B;*Cetnie;obci¹æ, odci¹æ, podci¹æ, rozci¹æ, wci¹æ (6)/
+;Vci¹æ;Xc B;*Vtnie;uci¹æ (10)/
+;Cgi¹æ;Xc B;*Cegnie;obgi¹æ, odgi¹æ, podgi¹æ, wgi¹æ, zgi¹æ (7)/
+;Vgi¹æ;Xc B;*Vgnie;zagi¹æ (8)/
+;Cmi¹æ;Xc B;*Cemnie;zmi¹æ/
+;Vmi¹æ;Xc B;*Vmnie;pomi¹æ (3)/
+;(wspi¹æ;Xc B;*wespnie;/
+;spi¹æ;Xc B;*zepnie;/
+;Cpi¹æ;Xc B;*Cepnie;odpi¹æ, podpi¹æ, rozpi¹æ/
+;Vpi¹æ;Xc B;*Vpnie;napi¹æ (8)/
+;wzi¹æ;XII B;*weŸmie;(siê) zawzi¹æ, przedsiêwzi¹æ/
+;(j¹æ;Xc B;*---;/
+;Cj¹æ;Xc B;*Cejmie;obj¹æ, odj¹æ, podj¹æ, zdj¹æ, rozdj¹æ!, zj¹æ! (7)/
+;Vj¹æ;Xc B;*Vjmie;wynaj¹æ, zaj¹æ, poj¹æ, przyj¹æ (16)/
+;skl¹æ;Xc B;*zeklnie;/
+;Ckl¹æ;Xc B;*Ceklnie;odkl¹æ!, rozkl¹æ! (3)/
+;Vkl¹æ;Xc B;*Vklnie;przekl¹æ (5)/
+;m¹æ;VIa i;m¹ciæ;zam¹æ (5)/
+;-an¹æ;Vb B;*-anie;ukan¹æ, stan¹æ, przystan¹æ/
+;-bn¹æ;Va B;*-bnie;nagabn¹æ, dziabn¹æ, r¹bn¹æ, skubn¹æ (20)/
+;-bn¹æ;Vc B;*-bnie;s³abn¹æ, ziêbn¹æ (13)/
+;-cn¹æ;Va B;*-cnie;pacn¹æ, kicn¹æ, kucn¹æ, chycn¹æ (10)/
+;-dn¹æ;Va B;*-dnie;zagadn¹æ, zagl¹dn¹æ, fundn¹æ, pierdn¹æ, gwizdn¹æ (14)/
+;-dn¹æ;Vc B;*-dnie;odgadn¹æ, padn¹æ?(v: paœæ), kradn¹æ?(v:kraœæ), rzedn¹æ, wiêdn¹æ, och³odn¹æ, chudn¹æ, brzydn¹æ (55)/
+;-en¹æ;Vb B;*-enie;¿en¹æ (2)/
+;-fn¹æ;Va B;*-fnie;kojfn¹æ, cofn¹æ/
+;-gn¹æ;Va B;*-gnie;smagn¹æ, pragn¹æ, ci¹gn¹æ, siêgn¹æ, doœcign¹æ, dŸwign¹æ, lgn¹æ, drgn¹æ, mrugn¹æ, obœlizgn¹æ (130)/
+;-gn¹æ;Vc B;*-gnie;biegn¹æ(v), legn¹æ(v), ustrzegn¹æ? (v: ustrzec), dosiêgn¹æ(v), lêgn¹æ(v), przêgn¹æ(v), zawilgn¹æ, stygn¹æ (55)/
+;-chn¹æ;Va B;*-chnie;machn¹æ, trz¹chn¹æ, kichn¹æ, pchn¹æ, czmychn¹æ (75)/
+;-chn¹æ;Vc B;*-chnie;zdechn¹æ, zatêchn¹æ, œcichn¹æ, schn¹æ, puchn¹æ (50)/
+;-hn¹æ;Va B;*-hnie;wahn¹æ (2+75)/
+;-in¹æ;Vb B;*-inie;gin¹æ, skin¹æ, min¹æ, owin¹æ (40)/
+;-jn¹æ;Va B;*-jnie;bujn¹æ, kujn¹æ/
+;-kn¹æ;Va B;*-knie;³akn¹æ, b¹kn¹æ, szczekn¹æ, szczêkn¹æ, fikn¹æ, mkn¹æ (210)/
+;-kn¹æ;Vc B;*-knie;brakn¹æ, si¹kn¹æ(v), ciekn¹æ(v), rzekn¹æ(v),miêkn¹æ, (siê) ulêkn¹æ(v), nikn¹æ, milkn¹æ, ¿ó³kn¹æ, mokn¹æ, wykn¹æ (95)/
+;-ln¹æ;Va B;*-lnie;goln¹æ, koln¹æ, kuln¹æ, kaszln¹æ (9)/
+;-mn¹æ;Va B;*-mnie;(siê) zdrzemn¹æ, kimn¹æ, zapomn¹æ, rymn¹æ (11)/
+;-on¹æ;Vb B;*-onie;wion¹æ, zion¹æ, ch³on¹æ, p³on¹æ, ton¹æ (35)/
+;-pn¹æ;Va B;*-pnie;klapn¹æ, trzepn¹æ, zaczerpn¹æ, skrzypn¹æ (85)/
+;-pn¹æ;Vc B;*-pnie;oklapn¹æ, œlepn¹æ, œcierpn¹æ, chrypn¹æ (25)/
+;-rn¹æ;Va B;*-rnie;garn¹æ, brn¹æ, szurn¹æ, dyrn¹æ (28)/
+;-sn¹æ;Va B;*-snie;kuksn¹æ, klapsn¹æ, kopsn¹æ, (siê) wypsn¹æ (4?)/
+;-sn¹æ;Va B;*-œnie;klasn¹æ, trz¹sn¹æ, cisn¹æ, olsn¹æ, chlusn¹æ, b³ysn¹æ (120)/
+;-sn¹æ;Vc B;*-snie;klêsn¹æ/
+;-sn¹æ;Vc B;*-œnie;gasn¹æ, kisn¹æ, zawisn¹æ, rosn¹æ (45)/
+;-œn¹æ;Va B;*-œnie;lœn¹æ/
+;-tn¹æ;Va B;*-tnie;p³atn¹æ, zaprz¹tn¹æ, fajtn¹æ, zgrzytn¹æ (30)/
+;-tn¹æ;Vc B;*-tnie;kwitn¹æ (11)/
+;-un¹æ;Vb B;*-unie;lun¹æ, run¹æ, frun¹æ, sun¹æ (35)/
+;-wn¹æ;Va B;*-wnie;ziewn¹æ, kiwn¹æ/
+;-yn¹æ;Vb B;*-ynie;wychyn¹æ, p³yn¹æ, s³yn¹æ (25)/
+;-³zn¹æ;Vc B;*-³znie;oche³zn¹æ, pe³zn¹æ (13)/
+;-³zn¹æ;Vc B;*-³Ÿnie;oche³zn¹æ, okie³zn¹æ, pe³zn¹æ (13)/
+;rzn¹æ;Va B;*rznie;narzn¹æ (17)/
+;rzn¹æ;Vc B;*rznie;marzn¹æ, mierzn¹æ (23)/
+;-zn¹æ;Va B;*-Ÿnie;mazn¹æ, (siê) poœlizn¹æ, bluzn¹æ, bryzn¹æ (20)/
+;-zn¹æ;Vc B;*-Ÿnie;wi¹zn¹æ, sczezn¹æ, grzêzn¹æ(v), uwiêzn¹æ (17)/
+;r¿n¹æ;Va B;*r¿nie;zar¿n¹æ (15)/
+;-r¿n¹æ;Vc B;*-r¿nie;obmier¿n¹æ!/
+;p¹æ;¿V NT;;p¹æ/
+;tr¹æ;VIa i;tr¹ciæ;str¹æ (14)/
+;r¹æ;¿I lG;r¹cia;r¹æ?/
+;(wszcz¹æ;Xc B;*---;/
+;Ccz¹æ;Xc B;*Cecznie;rozcz¹æ!/
+;Vcz¹æ;Xc B;*Vcznie;zacz¹æ, pocz¹æ, napocz¹æ, spocz¹æ (10)/
+;C¿¹æ;Xc B;*Ce¿mie;roz¿¹æ/
+;C¿¹æ;Xc B;*Ce¿nie;ob¿¹æ, od¿¹æ, (siê) w¿¹æ, z¿¹æ (4)/
+;V¿¹æ;Xc B;*V¿mie;wy¿¹æ (5)/
+;V¿¹æ;Xc B;*V¿nie;wy¿¹æ (5?)/
+;-bæ;¿I lG;-bcia;babæ!, lubæ?/
+;-beæ;mI N;*-becie;berbeæ/
+;beæ;VIa i;beciæ;beæ!/
+;-cheæ;mI N;*-chcie;p³acheæ, ³acheæ, sp³acheæ, wiecheæ/
+;-bieæ;III B;*-bieje;babieæ, grabieæ, dêbieæ, grubieæ, grzybieæ (20)/
+;-bieæ;VIa i;-bieciæ;skobieæ!/
+;-bieæ;VIIa B;*-bi;œwierzbieæ (2)/
+;-chcieæ;III B;*-chcieje;szlachcieæ/
+;chcieæ;XII B;*chce;zachcieæ (7)/
+;cieæ;mI N;*ciecie;/
+;-cieæ;III B;*-cieje;¿ó³cieæ, zidiocieæ, sierocieæ, niewieœcieæ (110)/
+;-cieæ;VIIa B;*-ci;lecieæ, chrzêœcieæ (18)/
+;-fieæ;III B;*-fieje;torfieæ (2)/
+;-gieæ;mI N;*-gcie;dziegieæ/
+;-kieæ;mI N;*-kcie;³okieæ, paznokieæ, k³ykieæ, knykieæ/
+;-kieæ;VIa i;-kieciæ;ubukieæ!/
+;(mieæ;XII B;*ma;mieæ/
+;mieæ;VIa i;mieciæ;mieæ!, œmieæ (4)/
+;mieæ;XI i;mieœæ;zamieæ (17)/
+;-mieæ;mI N;*-miecie;kmieæ, œmieæ/
+;-mieæ;¿V NT;*-mieci;zamieæ/
+;-mieæ;II B;*-mie;umieæ, rozumieæ, œmieæ (8)/
+;-mieæ;III B;*-mieje;schamieæ, oniemieæ, zdumieæ, olbrzymieæ (18)/
+;-mieæ;VIIa B;*-mi;brzmieæ, grzmieæ, szumieæ (24)/
+;gnieæ;XI i;gnieœæ;zgnieæ (12)/
+;-chnieæ;XII B;*-chnie;pachnieæ!/
+;nieæ;VIa i;nieciæ;roznieæ (7)/
+;-nieæ;¿V NT;*-nieci;knieæ, œnieæ/
+;-nieæ;III B;*-nieje;dnieæ, linieæ, topnieæ, istnieæ, mê¿nieæ (450)/
+;-nieæ;VIIa B;*-ni;dudnieæ!, zapomnieæ (13)/
+;-pieæ;mI N;*-piecie;rupieæ/
+;-pieæ;III B;*-pieje;ropieæ, têpieæ, g³upieæ, os³upieæ (40)/
+;-pieæ;VIIa B;*-pi;kipieæ, cierpieæ, chrypieæ, skrzypieæ (30)/
+;sieæ;¿V NT;*sieci;osieæ!/
+;-sieæ;III B;*-sieje;³ysieæ, orosieæ, psieæ, podtatusieæ (14)/
+;-sieæ;VIa i;-sieciæ;rozsieæ(i)/
+;-sieæ;VIIa B;*-si;wisieæ, musieæ (3)/
+;-wieæ;III B;*-wieje;jaskrawieæ, rdzewieæ, siwieæ, zdrowieæ, trzeŸwieæ (140)/
+;-wieæ;VIa i;-wieciæ;kwieæ, œwieæ (17)/
+;-wieæ;VIIa B;*-wi;tkwieæ!/
+;wiedzieæ;XII B;*wie;powiedzieæ (16)/
+;-dzieæ;III B;*-dzieje;czadzieæ, œniedzieæ, hardzieæ, ¿ydzieæ (28)/
+;-dzieæ;VIIa B;*-dzi;siedzieæ, swêdzieæ, widzieæ, œmierdzieæ (30)/
+;-zieæ;III B;*-zieje;francuzieæ, kobuzieæ, zapyzieæ (4+28)/
+;aleæ;;;aleæ!/
+;-emleæ;XI B;*-miele;rozemleæ, zemleæ/
+;mleæ;XI B;*miele;namleæ (4)/
+;-epleæ;XI B;*-piele;obepleæ/
+;pleæ;XI B;*piele;wypleæ (4)/
+;pleæ;XI i;pleœæ;upleæ (12)/
+;leæ;VIIa i;lecieæ;wzleæ (17)/
+;-leæ;¿V NT;*-leci;kleæ!, pleæ!/
+;-leæ;III B;*-leje;szaleæ, mdleæ, bieleæ, ciepleæ (90)/
+;-leæ;VIa i;-leciæ;zaleæ, fleæ, kleæ (10)/
+;-leæ;VIIa B;*-li;skomleæ, boleæ, woleæ, myœleæ (15)/
+;-leæ;XII B;*-le;mamleæ, kaszleæ/
+;p³eæ;¿V NT;*p³ci;/
+;-³eæ;mI N;*-³cie;po³eæ, urwipo³eæ/
+;-peæ;mI N;*-pcie;kapeæ, ³apeæ, kopeæ, pypeæ (10)/
+;-peæ;VIa i;-peciæ;szpeæ (5)/
+;-reæ;III B;*-reje;wygoreæ, Ÿreæ (3)/
+;-reæ;XI B;*-re;Ÿreæ!, ze¿reæ (15)/
+;-teæ;¿V NT;;Noteæ/
+;-czeæ;¿V NT;*-czeci;szczeæ/
+;-czeæ;III B;*-czeje;dziwaczeæ, pierniczeæ, dziczeæ, niszczeæ (65)/
+;-czeæ;VIIb B;*-czy;beczeæ, klêczeæ, milczeæ, krzyczeæ (170)/
+;-wrzeæ;XI B;*-wrze;przywrzeæ(przywar³) (10?)/
+;wrzeæ;XII B;*wrze;zawrzeæ/
+;-rzeæ;;;samotrzeæ/
+;-rzeæ;III B;*-rzeje;szarzeæ, m¹drzeæ, dojrzeæ, chorzeæ, wietrzeæ (70)/
+;-rzeæ;VIIb B;*-rzy;¿ebrzeæ!, dojrzeæ, patrzeæ, spojrzeæ, wejŸrzeæ (30)/
+;-rzeæ;XI B;*-rze;drzeæ, mrzeæ, przeæ, trzeæ, zrzeæ! (60+10)/
+;-szeæ;;;zawszeæ/
+;-szeæ;¿V N;;waszeæ(m)/
+;-szeæ;III B;*-szeje;trupieszeæ, pustoszeæ, murszeæ, kruszeæ (25)/
+;-szeæ;VIIb B;*-szy;dyszeæ, s³yszeæ (17)/
+;-¿eæ;III B;*-¿eje;tê¿eæ, zel¿eæ, ubo¿eæ, dro¿eæ (30)/
+;-¿eæ;VIIb B;*-¿y;bie¿eæ, le¿eæ, dr¿eæ, r¿eæ (50)/
+;dêæ;nI lG;dêcie;zadêæ, wzdêæ/
+;chêæ;¿V NT;;niechêæ/
+;-chêæ;VIa i;-chêciæ;zachêæ (6)/
+;ciêæ;nI lG;ciêcie;zaciêæ, przeciêæ, œciêæ (18)/
+;giêæ;nI lG;giêcie;zagiêæ, przegiêæ (20)/
+;-miêæ;¿V NT;;pamiêæ/
+;miêæ;nI lG;miêcie;wymiêæ/
+;-niêæ;nI lG;-niêcie;poci¹gniêæ, opuchniêæ, zamkniêæ, zatoniêæ, posuniêæ (700)/
+;piêæ;nI lG;piêcie;napiêæ, spiêæ (15)/
+;piêæ;Ka 1;;/
+;-siêæ;;;samodziesiêæ/
+;-siêæ;Ka 1;;dziesiêæ/
+;-wiêæ;Ka 1;;dziewiêæ/
+;-wiêæ;VIa i;-wiêciæ;œwiêæ (6)/
+;ziêæ;mI N;;/
+;-ziêæ;nI lG;-ziêcie;wziêæ, przedsiêwziêæ (10)/
+;jêæ;nI lG;jêcie;zajêæ, zdjêæ, pojêæ, ujêæ (18)/
+;-lêæ;nI lG;-lêcie;zaklêæ, wyklêæ/
+;-lêæ;VIa i;-lêciæ;bydlêæ (2)/
+;mêæ;VIa i;mêciæ;zachachmêæ, zasmêæ (6)/
+;nêæ;VIa i;nêciæ;przynêæ (10)/
+;-rêæ;VIa i;-rêciæ;krêæ, uwstrêæ (17)/
+;-têæ;¿V NT;;rtêæ, ortêæ/
+;-czêæ;nI lG;-czêcie;zaczêæ, poczêæ, wszczêæ/
+;-czêæ;¿V NT;;pieczêæ/
+;-rzêæ;VIa i;-rzêciæ;uzwierzêæ (3)/
+;¿êæ;nI lG;¿êcie;siano¿êæ, wy¿êæ, z¿êæ/
+;-¿êæ;¿V NT;;siano¿êæ/
+;-¿êæ;VIa i;-¿êciæ;uksi¹¿êæ/
+;-fæ;¿I lG;-fcia;Stefæ/
+;-chæ;¿I lG;-chcia;ciuchæ/
+;-chæ;VIa i;-chciæ;uszlachæ, pichæ (4)/
+;-aiæ;VIa B;*-ai;zagaiæ, maiæ, raiæ, taiæ, czaiæ (40)/
+;-aiæ;VIa i;-aiciæ;urozmaiæ (3)/
+;biæ;nI lG;bicie;obiæ, mordobiæ (25)/
+;biæ;Xa B;*bije;wzbiæ (17)/
+;-biæ;¿V NT;;kibiæ/
+;-biæ;VIa B;*-bi;os³abiæ, grabiæ, hañbiæ, robiæ, lubiæ (230)/
+;-œciæ;;;juœciæ!/
+;-œciæ;VIa B;*-œci;szeleœciæ, mœciæ, goœciæ, puœciæ (130)/
+;-ciæ;;;ju¿ciæ!/
+;-ciæ;VIa B;*-ci;p³aciæ, m¹ciæ, kleciæ, nêciæ, wróciæ, cuciæ (450+130)/
+;-eiæ;VIa B;*-ei;kleiæ, oleiæ, wykoleiæ (20)/
+;-fiæ;VIa B;*-fi;trafiæ, trefiæ, kwefiæ, torfiæ (15)/
+;-fiæ;VIa i;-ficiæ;zobfiæ!/
+;kiæ;;;/
+;kiæ;mI N;;/
+;kiæ;¿I lG;kicia;kiæ!/
+;kiæ;¿V NT;;kiæ!/
+;-kiæ;VIa i;-kiciæ;rozb³êkiæ, mikiæ!/
+;aliæ;;;/
+;liæ;¿V NT;;liæ!/
+;-liæ;VIa B;*-li;paliæ, (siê) modliæ, kreœliæ, tliæ (625)/
+;-liæ;VIa i;-liciæ;ujednoliæ, upospoliæ (3)/
+;-miæ;VIa B;*-mi;plamiæ, æmiæ, uziemiæ, zawiadomiæ, karmiæ (100)/
+;-miæ;VIa i;-miciæ;aksamiæ/
+;gniæ;nI lG;gnicie;/
+;gniæ;Xa B;*gnije;wygniæ (13)/
+;-gniæ;VIa B;*-gni;zabagniæ, (siê) jagniæ, zaogniæ/
+;niæ;¿V NT;;/
+;-niæ;VIa B;*-ni;ganiæ, winiæ, ceniæ, têtniæ, czyniæ (900)/
+;-oiæ;VIa B;*-oi;doiæ, goiæ, koiæ, gnoiæ, poiæ, stroiæ (125)/
+;-oiæ;VIa i;-oiciæ;uprzyzwoiæ!/
+;piæ;nI lG;picie;przepiæ/
+;piæ;Xa B;*pije;spiæ, rozpiæ (18)/
+;-piæ;VIa B;*-pi;sk¹piæ, lepiæ, kpiæ, w¹tpiæ, kupiæ (250)/
+;-siæ;VIa B;*-si;gasiæ, zak¹siæ, biesiæ, nosiæ, dusiæ (250)/
+;-uiæ;VIa B;*-ui;zniechluiæ(i)/
+;wiæ;¿V NT;;wiæ, zwiæ!/
+;wiæ;VIa B;*-wi;bawiæ, krzewiæ, oliwiæ, mówiæ, ¿ywiæ (465)/
+;wiæ;Xa B;*wije;uwiæ (17)/
+;-wiæ;nI lG;-wicie;powiæ (10)/
+;-dziæ;VIa B;*-dzi;radziæ, cedziæ, wêdziæ, chodziæ, budziæ, szydziæ (535)/
+;-ziæ;VIa B;*-zi;³aziæ, raziæ, wiêziæ, woziæ, mierziæ (115+535)/
+;-kæ;VIa i;-kciæ;¿³ukæ!/
+;-³æ;¿V NT;;¿ó³æ/
+;-³æ;VIa i;-³ciæ;kszta³æ, gwa³æ, ¿ó³æ (18)/
+;-mæ;¿I lG;-mcia;ciamæ, mamæ, kumæ?/
+;-næ;¿I lG;-ncia;stryjenæ, ¿onæ/
+;-næ;VIa i;-nciæ;lamenæ?, rozdiamenæ?(i), ubrylanæ?/
+;-ñæ;¿I lG;-ñcia;babuñæ, paniuñæ, mamuñæ, pannuñæ, kawuñæ/
+;boæ;;;boæ, luboæ/
+;-boæ;VIa i;-bociæ;(siê) bezroboæ/
+;-goæ;¿V NT;;wilgoæ/
+;-goæ;VIa i;-gociæ;wilgoæ (6)/
+;choæ;;;/
+;-choæ;VIa i;-chociæ;rozochoæ (4)/
+;-ioæ;¿I lG;-iocia;cioæ/
+;-koæ;¿V NT;;p³askoæ/
+;koæ;VIa i;kociæ;(siê) markoæ, (siê) parkoæ (7)/
+;-³oæ;¿V NT;;k³oæ, p³oæ, w³oæ, z³oæ, zmarz³oæ (8)/
+;-³oæ;VIa i;-³ociæ;b³oæ, ogo³oæ, op³oæ, z³oæ (22)/
+;-moæ;VIa i;-mociæ;grzmoæ (3)/
+;-noæ;;;podobnoæ, ponoæ/
+;-noæ;VIa i;-nociæ;uklejnoæ, knoæ (5)/
+;poæ;VIa i;pociæ;(siê) poæ (10)/
+;kroæ;;;kilkakroæ, wielekroæ, czêstokroæ, trzykroæ (27)/
+;-roæ;¿V NT;;dobroæ, paproæ, stokroæ, troæ, uwroæ/
+;-roæ;VIa i;-rociæ;sieroæ (3)/
+;-soæ;VIa i;-sociæ;psoæ (3)/
+;toæ;;;nastoæ/
+;-toæ;¿V NT;;³otoæ/
+;-óæ;VIa i;-óciæ;k³óæ, m³óæ, obróæ, skróæ, wróæ (40)/
+;-pæ;¿I lG;-pcia;gapæ?, ³apæ?, dupæ/
+;-pæ;VIa i;-pciæ;drepæ!, kopæ (9)/
+;-ræ;;;æwieræ/
+;-ræ;mI N;;pokuræ!/
+;-ræ;nI lG;-rcie;staræ, otwaræ, rozdaræ, zaparæ, prze¿aræ (60)/
+;-ræ;¿I lG;-rcia;córæ/
+;-ræ;¿V NT;;baræ, œmieræ, æwieræ, peræ, sieræ/
+;-ræ;VIa i;-rciæ;karæ, uœmieræ, wieræ, koræ (18)/
+;(aœæ;¿V N;;aœæ(m)/
+;k³aœæ;XI B;*k³adzie;pok³aœæ (4)/
+;w³aœæ;¿V NT;;w³aœæ!/
+;maœæ;¿V NT;;/
+;maœæ;VIa i;maœciæ;omaœæ (4)/
+;-paœæ;VIa i;-paœciæ;zaprzepaœæ/
+;paœæ;¿V NT;;zapaœæ, przepaœæ/
+;paœæ;Vc B;*padnie;podupaœæ(v?) (17)/
+;paœæ;XI B;*pasie;napaœæ (15)/
+;kraœæ;Vc B;*kradnie;wykraœæ(v?) (17)/
+;waœæ;¿V N;;waœæ(m)/
+;-waœæ;VIa i;-waœciæ;odchwaœæ (4)/
+;si¹œæ;XII B;*si¹dzie;przysi¹œæ (19)/
+;prz¹œæ;XI B;*przêdzie;uprz¹œæ (8)/
+;trz¹œæ;XI B;*trzêsie;wytrz¹œæ (12)/
+;-bieœæ;VIa i;-bieœciæ;niebieœæ (2)/
+;mieœæ;VIa i;mieœciæ;zamieœæ, przemieœæ, rozmieœæ, zmieœæ (7)/
+;mieœæ;XI B;*miecie;zamieœæ, przemieœæ, rozmieœæ, zmieœæ (17)/
+;gnieœæ;XI B;*gniecie;zgnieœæ (12)/
+;nieœæ;XI B;*niesie;unieœæ (18)/
+;pieœæ;VIa i;pieœciæ;popieœæ (10)/
+;sieœæ;XI B;*siêdzie;usieœæ (5)/
+;wieœæ;¿V NT;*wieœci;powieœæ (6)/
+;wieœæ;VIa i;wieœciæ;obwieœæ, zniewieœæ (4)/
+;wieœæ;XI B;*wiedzie;uwieœæ (16)/
+;-jeœæ;¿V NT;*-jeœci;rêkojeœæ, trojeœæ!, tojeœæ!/
+;jeœæ;XII B;*je;zjeœæ (18)/
+;pleœæ;XI B;*plecie;rozpleœæ (12)/
+;-leœæ;VIa i;-leœciæ;szeleœæ (4)/
+;-leœæ;¿V NT;;boleœæ/
+;treœæ;¿V NT;*treœci;/
+;-treœæ;VIa i;-treœciæ;natreœæ?, streœæ/
+;teœæ;mI N;;/
+;teœæ;¿I lG;teœcia;teœæ/
+;czeœæ;¿V NT;*czci;/
+;-czeœæ;VIa i;-czeœciæ;bezczeœæ (2)/
+;grzeœæ;XI B;*grzebie;pogrzeœæ (4)/
+;-rzeœæ;mI N;;Brzeœæ/
+;szeœæ;Ka 1;;/
+;¿eœæ;¿V NT;*¿eœci;¿eœæ!/
+;-êœæ;nI lG;-êœcie;zamêœæ, nieszczêœæ/
+;-êœæ;¿V NT;;piêœæ, czêœæ, chrzêœæ/
+;-êœæ;VIa i;-êœciæ;rozgêœæ, szczêœæ, chrzêœæ (13)/
+;-êœæ;VIIa i;-êœciæ;chrzêœæ? (2)/
+;-iœæ;mI N;;liœæ/
+;-iœæ;nI lG;-iœcie;wniœæ/
+;-iœæ;¿V NT;;kiœæ, nienawiœæ, zawiœæ/
+;-iœæ;VIa i;-iœciæ;uiœæ?, ziœæ?, rozogniœæ (siê) (5)/
+;iœæ;XII B;*idzie;wniœæ, wyniœæ/
+;-jœæ;nI lG;-jœcie;najœæ, zajœæ, obejœæ, ujœæ (18)/
+;-jœæ;XII B;*-jdzie;podejœæ, pójœæ, przejœæ, wznijœæ (22)/
+;-lœæ;¿V NT;;pilœæ/
+;(oœæ;¿V NT;;/
+;-boœæ;¿V NT;;s³aboœæ, luboœæ, gruboœæ/
+;boœæ;XI B;*bodzie;uboœæ(v: ubóœæ)/
+;-coœæ;¿V NT;;gor¹coœæ, obcoœæ, kobiecoœæ, nicoœæ (11)/
+;doœæ;;;doœæ, zadoœæ/
+;-doœæ;¿V NT;;bladoœæ, radoœæ, m³odoœæ, twardoœæ, chudoœæ (9)/
+;-goœæ;¿V NT;;nagoœæ, mnogoœæ, wrogoœæ, d³ugoœæ (10)/
+;goœæ;mI N;;telegoœæ/
+;goœæ;¿I lG;goœcia;goœæ/
+;goœæ;VIa i;goœciæ;goœæ (5)/
+;-hoœæ;¿V NT;;b³ahoœæ, cichoœæ, p³ochoœæ, suchoœæ (6)/
+;-ioœæ;¿V NT;;olbrzymioœæ, tanioœæ, odpowiednioœæ, bezpoœrednioœæ (20)/
+;-koœæ;;;psiakoœæ(w)/
+;-koœæ;VIa i;-koœciæ;pokoœæ/
+;koœæ;¿V NT;;jakoœæ, gibkoœæ, wysokoœæ, boskoœæ, marskoœæ (160)/
+;-loœæ;¿V NT;;wieloœæ, iloœæ/
+;-³oœæ;¿V NT;;ma³oœæ, wytrzyma³oœæ, ci¹g³oœæ, mi³oœæ, w³oœæ (250)/
+;-³oœæ;VIa i;-³oœciæ;z³oœæ (5)/
+;-moœæ;mI N;;jegomoœæ, aszmoœæ/
+;moœæ;¿V NT;;to¿samoœæ, jejmoœæ, uprzejmoœæ, waszmoœæ(m) (30)/
+;moœæ;VIa i;moœciæ;umoœæ (6)/
+;-noœæ;¿V NT;;wielebnoœæ(m), godnoœæ, spójnoœæ, wolnoœæ, cennoœæ (2050)/
+;-poœæ;¿V NT;;sk¹poœæ, krêpoœæ, têpoœæ/
+;poœæ;VIa i;poœciæ;przepoœæ (5)/
+;-roœæ;mI N;;paroœæ/
+;-roœæ;¿V NT;;staroœæ, szaroœæ, m¹droœæ, zazdroœæ, szczeroœæ (22)/
+;roœæ;Vc B;*roœnie;roœæ(v: wyrosn¹æ)/
+;roœæ;VIa i;roœciæ;zazdroœæ, uproœæ (6)/
+;roœæ;XI B;*roœcie;roœæ!?/
+;-soœæ;¿V NT;;kusoœæ/
+;-toœæ;¿V NT;;ciêtoœæ, litoœæ, oleistoœæ, sytoœæ (300)/
+;-woœæ;¿V NT;;prawoœæ, niegodziwoœæ, ideowoœæ, trzeŸwoœæ (640)/
+;-czoœæ;¿V NT;;stronniczoœæ, twórczoœæ, porywczoœæ, czczoœæ (85)/
+;-szoœæ;¿V NT;;mniejszoœæ, teraŸniejszoœæ, wiêkszoœæ, wy¿szoœæ (17)/
+;-¿oœæ;¿V NT;;œwie¿oœæ, du¿oœæ, chy¿oœæ/
+;bóœæ;XI B;*bodzie;ubóœæ(v) (6)/
+;róœæ;Vc B;*roœnie;wyróœæ(v: wyrosn¹æ) (12)/
+;-rœæ;¿V NT;;garœæ, sierœæ/
+;uœæ;nI lG;uœcie;uœæ/
+;-uœæ;¿V NT;;czeluœæ/
+;-uœæ;VIa i;-uœciæ;zaczeluœæ, t³uœæ, puœæ, chruœæ, szuœæ (30)/
+;-yœæ;¿V NT;;kopyœæ, korzyœæ/
+;-yœæ;VIa i;-yœciæ;czyœæ, skorzyœæ! (10)/
+;-buæ;nI lG;-bucie;obuæ/
+;-buæ;Xa B;*-buje;obuæ/
+;cuæ;VIa i;cuciæ;docuæ (5)/
+;duæ;nI lG;ducie;/
+;duæ;Xa B;*duje;/
+;chuæ;¿V NT;;pochuæ/
+;-iuæ;¿I lG;-iucia;ciuæ!/
+;-kuæ;mI N;;turkuæ/
+;kuæ;nI lG;kucie;okuæ (14)/
+;kuæ;Xa B;*kuje;skuæ (16)/
+;-luæ;nI lG;-lucie;wykluæ, wypluæ/
+;-luæ;Xa B;*-luje;kluæ, pluæ (9)/
+;-³uæ;nI lG;-³ucie;nak³uæ/
+;-³uæ;Xa B;*-³uje;k³uæ (12)/
+;-muæ;VIa i;-muciæ;ba³amuæ, ka³amuæ, smuæ, czmuæ (20)/
+;nuæ;VIa i;nuciæ;zanuæ (6)/
+;-nuæ;nI lG;-nucie;knuæ, osnuæ/
+;-nuæ;Xa B;*-nuje;knuæ, snuæ (17)/
+;-puæ;mI N;;papuæ/
+;-ruæ;nI lG;-rucie;rozpruæ, zatruæ (15)/
+;-ruæ;VIa i;-ruciæ;zruæ (2)/
+;-ruæ;Xa B;*-ruje;pruæ, truæ (19)/
+;-suæ;nI lG;-sucie;popsuæ/
+;suæ;Xa B;*suje;osuæ, psuæ (17)/
+;czuæ;;;czuæ(o)/
+;czuæ;nI lG;czucie;odczuæ, przeczuæ, uczuæ, zaszczuæ (20)/
+;czuæ;Xa B;*czuje;czuæ, wspó³czuæ, szczuæ (20)/
+;rzuæ;VIa i;rzuciæ;wyrzuæ (18)/
+;zuæ;nI lG;zucie;wyzuæ, zuæ? (7+20)/
+;zuæ;Xa B;*zuje;nazuæ, wyzuæ (10+20)/
+;¿uæ;nI lG;-¿ucie;¿uæ?/
+;¿uæ;Xa B;*¿uje;prze¿uæ (7)/
+;-wæ;¿I lG;-wcia;kawæ?/
+;byæ;nI lG;bycie;nabyæ (17)/
+;byæ;XII B;*bêdzie;nabyæ, (siê) obyæ, zdobyæ, zbyæ (18)/
+;dyæ;;;zaw¿dyæ, w¿dyæ/
+;-dyæ;¿I lG;-dycia;mo³odyæ!/
+;chyæ;VIa i;chyciæ;chyæ (2)/
+;-³yæ;VIa i;-³yciæ;sp³yæ/
+;myæ;nI lG;mycie;przemyæ (12)/
+;-myæ;VIa i;-myciæ;przemyæ (2)/
+;myæ;Xa B;*myje;wymyæ (13)/
+;ryæ;nI lG;rycie;nakryæ, odkryæ, okryæ (20)/
+;ryæ;Xa B;*ryje;kryæ (22)/
+;-syæ;;;dosyæ/
+;syæ;VIa i;syciæ;dosyæ (8)/
+;tyæ;nI lG;tycie;utyæ/
+;tyæ;Xa B;*tyje;przytyæ (7)/
+;-wyæ;VIa i;-wyciæ;chwyæ (13)/
+;wyæ;nI lG;wycie;/
+;wyæ;Xa B;*wyje;zawyæ (5)/
+;-czyæ;VIa i;-czyciæ;(siê) szczyæ (5)/
+;-czyæ;VIb B;*-czy;znaczyæ, leczyæ, koñczyæ, uczyæ, niszczyæ, marszczyæ (720)/
+;rzyæ;¿V NT;*rzycie;/
+;-rzyæ;VIb B;*-rzy;marzyæ, wierzyæ, pieprzyæ, burzyæ (450)/
+;-szyæ;VIb B;*-szy;straszyæ, wêszyæ, gorszyæ, suszyæ (200)/
+;szyæ;nI lG;szycie;naszyæ (17)/
+;szyæ;Xa B;*szyje;uszyæ (15)/
+;-¿yæ;VIb B;*-¿y;wa¿yæ, d¹¿yæ, l¿yæ, m¿yæ, ³o¿yæ, wró¿yæ, s³u¿yæ (320)/
+;¿yæ;nI lG;¿ycie;prze¿yæ, nadu¿yæ (14)/
+;¿yæ;Xa B;*¿yje;za¿yæ, spo¿yæ, u¿yæ (18)/
+;grz¹Ÿæ;Vc B;*grzêŸnie;ugrz¹Ÿæ(v: ugrzêzn¹æ)/
+;grz¹Ÿæ;XI B;*grzêzie;grz¹Ÿæ/
+;wieŸæ;XI B;*wiezie;nawieŸæ (16)/
+;(naleŸæ;XI B;*nalezie;/
+;naleŸæ;XII B;*najdzie;odnaleŸæ, znaleŸæ/
+;leŸæ;XI B;*lezie;obleŸæ (14)/
+;liŸæ;XI B;*lizie;/
+;gryŸæ;XI B;*gryzie;przygryŸæ (20)/
